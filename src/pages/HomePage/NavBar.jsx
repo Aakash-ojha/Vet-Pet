@@ -1,7 +1,7 @@
 import React from "react";
 import { useState } from "react";
-import { resources } from "../assets/assets";
-import { assets } from "../01_assets/assets";
+import { resources } from "../../assets/assets";
+import { assets } from "../../01_assets/assets";
 import { NavLink, useNavigate } from "react-router-dom";
 
 const navItems = [
@@ -72,7 +72,7 @@ const NavBar = () => {
                   My profile
                 </p>
                 <p
-                  onClick={() => navigate("my-appointments")}
+                  onClick={() => navigate("my-appointment")}
                   className="hover:text-black cursor-pointer"
                 >
                   My Appointment

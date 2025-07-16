@@ -1,1 +1,12 @@
 @import "tailwindcss";
+
+@layer components {
+  /* You can put custom components or abstracted utility classes here */
+  .active hr {
+    @apply block;
+  }
+}
+
+@theme {
+  --color-primary: #5f6fff;
+}

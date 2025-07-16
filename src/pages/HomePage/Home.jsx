@@ -1,10 +1,12 @@
 import React from "react";
-import Header from "../component/header";
+import Header from "./Header";
+import SpecialityMenu from "./SpecialityMenu";
 
 const Home = () => {
   return (
     <div>
       <Header />
+      <SpecialityMenu />
     </div>
   );
 };
