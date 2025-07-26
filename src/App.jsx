@@ -9,6 +9,8 @@ import MyAppointment from "./pages/Appointment/MyAppointment";
 import Appointment from "./pages/Appointment/Appointment";
 import Doctors from "./pages/Doctors/Doctors";
 import MyProfile from "./pages/MyProfile/MyProfile";
+import BookingPage from "./pages/Appointment/BookingPage";
+import Footer from "./component/Footer";
 
 const App = () => {
   return (
@@ -17,21 +19,18 @@ const App = () => {
 
       <Routes>
         <Route path="/" element={<Home />} />
-
         <Route path="/about" element={<About />} />
-
         <Route path="/contact" element={<Contact />} />
-
         <Route path="/login" element={<Login />} />
-
         <Route path="/my-appointments" element={<MyAppointment />} />
         <Route path="/appointment/:DocId" element={<Appointment />} />
-
         <Route path="/doctors" element={<Doctors />} />
         <Route path="/doctors/:speciality" element={<Doctors />} />
-
+        <Route path="/booking" element={<BookingPage />} />
         <Route path="/my-profile" element={<MyProfile />} />
       </Routes>
+
+      <Footer />
     </div>
   );
 };

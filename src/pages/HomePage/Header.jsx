@@ -1,7 +1,18 @@
 import React from "react";
 import { assets } from "../../01_assets/assets";
+import { useNavigate } from "react-router-dom";
 
 const Header = () => {
+  const navigate = useNavigate();
+  const handleBookAppointmentClick = (e) => {
+    e.preventDefault();
+    const specialitySection = document.getElementById("speciality");
+    if (specialitySection) {
+      navigate("#speciality");
+      specialitySection.scrollIntoView({ behavior: "smooth" });
+    }
+  };
+
   return (
     <div className="flex flex-col md:flex-row flex-wrap bg-primary rounded-lg px-4 md:px-8 lg:px-12  overflow-hidden">
       {/* Left side  */}
@@ -29,6 +40,7 @@ const Header = () => {
 
         <a
           href="#speciality"
+          onClick={handleBookAppointmentClick}
           className="flex items-center gap-2 bg-white px-3 py-3
         rounded-full text-gray-600 text-sm m-auto md:m-0 hover:scale-105 transition-colors duration-300 ease-in-out hover:bg-gray-100 cursor-pointer"
         >

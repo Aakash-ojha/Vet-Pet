@@ -24,13 +24,13 @@ const NavBar = () => {
         alt="Logo"
       />
 
-      <ul className="md:flex items-start gap-5 font-medium">
+      <ul className="md:flex items-start gap-5 font-xl">
         {navItems.map((item) => (
           <li key={item.path}>
             <NavLink
               to={item.path}
               className={({ isActive }) =>
-                `relative py-1 text-lg font-bold block
+                `relative py-1 text-lg font-medium. block
                  ${isActive ? "text-blue-700" : "text-gray-600"}
                  hover:text-blue-500 transition-colors duration-200 group`
               }

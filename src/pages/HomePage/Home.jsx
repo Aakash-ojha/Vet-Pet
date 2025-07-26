@@ -1,12 +1,16 @@
 import React from "react";
 import Header from "./Header";
 import SpecialityMenu from "./SpecialityMenu";
+import TopDoctors from "../Doctors/TopDoctors";
+import Banner from "./Banner";
 
 const Home = () => {
   return (
     <div>
       <Header />
       <SpecialityMenu />
+      <TopDoctors />
+      <Banner />
     </div>
   );
 };

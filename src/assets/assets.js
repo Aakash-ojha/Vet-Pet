@@ -1,3 +1,4 @@
+import appointment_img from "./appointment_img.png";
 import logo from "./logo.png";
 import General_Physician from "./General_Physician.png";
 import Cardiologist from "./Cardiologist.png";
@@ -8,6 +9,7 @@ import Surgery from "./Surgery.png";
 import Theriogenologist from "./Theriogenologist.png";
 
 export const resources = {
+  appointment_img,
   logo,
 };
 
