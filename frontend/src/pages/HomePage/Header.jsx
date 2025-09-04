@@ -14,7 +14,7 @@ const Header = () => {
   };
 
   return (
-    <div className="flex flex-col md:flex-row flex-wrap bg-primary rounded-lg px-4 md:px-10 lg:px-14  overflow-hidden">
+    <div className="flex flex-col md:flex-row flex-wrap bg-primary rounded-lg px-4 md:px-10 lg:px-14  overflow-hidden h-[450px]">
       {/* Left side  */}
       <div className="md:w-1/2 flex flex-col items-start justify-center gap-3 py-6 m-auto md:py-[8vw] md:mb-[-15px] ">
         <p className="text-2xl md:text-3xl lg:text-4xl text-white font-semibold leading-tight md:leading-tight ">

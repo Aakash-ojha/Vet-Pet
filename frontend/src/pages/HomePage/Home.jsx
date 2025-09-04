@@ -3,11 +3,14 @@ import Header from "./Header";
 import SpecialityMenu from "./SpecialityMenu";
 import TopDoctors from "../Doctors/TopDoctors";
 import Banner from "./Banner";
+import SlideToggle from "./SlideToggle";
+import Shop from "../Shop/Shop";
 
 const Home = () => {
   return (
     <div>
-      <Header />
+      <SlideToggle />
+      {/* <Shop /> */}
       <SpecialityMenu />
       <TopDoctors />
       <Banner />
