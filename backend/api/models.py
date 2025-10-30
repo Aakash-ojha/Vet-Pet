@@ -15,13 +15,17 @@ class PetOwner(models.Model):
     def __str__(self):
         return self.name
 
+
+
 class VeterinaryDoctor(models.Model):
     name = models.CharField(max_length=100)
     specialization = models.CharField(max_length=100)
     contact = models.CharField(max_length=15)
+    image = models.ImageField(upload_to='doctor_images/', blank=True, null=True)
 
     def __str__(self):
         return self.name
+
 
 class Animal(models.Model):
     owner = models.ForeignKey(PetOwner, on_delete=models.CASCADE)

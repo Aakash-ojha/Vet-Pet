@@ -11,8 +11,9 @@ import Doctors from "./pages/Doctors/Doctors";
 import MyProfile from "./pages/MyProfile/MyProfile";
 import Footer from "./component/Footer";
 import Services from "./pages/Services";
-import DetailForm from "./pages/Form";
 import Emergency from "./pages/Emergency";
+import Shop from "./pages/Shop/ShopUi";
+import BookingForm from "./pages/BookingForm.jsx";
 
 const App = () => {
   return (
@@ -24,11 +25,12 @@ const App = () => {
         <Route path="/about" element={<About />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/login" element={<Login />} />
+        <Route path="/shop" element={<Shop />} />
         <Route path="/my-appointments" element={<MyAppointment />} />
         <Route path="/appointment/:DocId" element={<Appointment />} />
         <Route path="/doctors" element={<Doctors />} />
         <Route path="/services" element={<Services />} />
-        <Route path="/form" element={<DetailForm />} />
+        <Route path="/services/form" element={<BookingForm />} />
         <Route path="/emergency" element={<Emergency />} />
         <Route path="/doctors/:speciality" element={<Doctors />} />
         <Route path="/my-profile" element={<MyProfile />} />

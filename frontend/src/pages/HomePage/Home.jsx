@@ -4,7 +4,7 @@ import SpecialityMenu from "./SpecialityMenu";
 import TopDoctors from "../Doctors/TopDoctors";
 import Banner from "./Banner";
 import SlideToggle from "./SlideToggle";
-import Shop from "../Shop/Shop";
+import Shop from "../Shop/ShopUi";
 
 const Home = () => {
   return (

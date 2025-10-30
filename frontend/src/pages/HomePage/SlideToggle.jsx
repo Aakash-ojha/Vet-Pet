@@ -1,6 +1,6 @@
 import React, { useState, useRef } from "react";
 import Header from "./Header";
-import Shop from "../Shop/Shop";
+import Shop from "../Shop/ShopUi";
 
 const SlideToggle = () => {
   const [currentSlide, setCurrentSlide] = useState(0);

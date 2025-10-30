@@ -1,4 +1,4 @@
-import React from "react";
+import { useState } from "react";
 import {
   Stethoscope,
   Activity,
@@ -11,61 +11,74 @@ import {
   Clock,
 } from "lucide-react";
 
+import { useNavigate } from "react-router-dom";
+
 const Services = () => {
+  const navigate = useNavigate();
+  const [showForm, setShowForm] = useState(false);
   const services = [
     {
-      icon: <Stethoscope className="w-8 h-8 text-blue-600 " />,
+      slug: "the-best-doctors",
+      icon: <Stethoscope className="w-8 h-8 text-blue-600" />,
       title: "The Best Doctors",
       description:
-        "Our app help you to find qualified caring professionals who looks well beyond to place the focus on you and your pet",
+        "Our app helps you find qualified, caring professionals who look well beyond to place the focus on you and your pet.",
     },
     {
+      slug: "dentistry",
       icon: <Activity className="w-8 h-8 text-blue-600" />,
       title: "Dentistry",
       description:
-        "Complete dental care, adult ultrasonic dental scaling, polishing, tooth extractions and minor oral surgery.",
+        "Complete dental care, adult ultrasonic dental scaling, polishing, tooth extractions, and minor oral surgery.",
     },
     {
+      slug: "minor-major-surgery",
       icon: <Heart className="w-8 h-8 text-blue-600" />,
       title: "Minor & Major Surgery",
       description:
-        "We offer complete medical & surgery procedures including Spay & Neuter, Orthopedic surgery & soft tissue surgery.",
+        "We offer complete medical and surgical procedures including Spay & Neuter, orthopedic surgery, and soft tissue surgery.",
     },
     {
+      slug: "isolation-room",
       icon: <Shield className="w-8 h-8 text-blue-600" />,
       title: "Separate Isolation Room",
       description:
-        "The isolation room is specially designed and equipped for infectious cases. We provide it build quick lab testing, snap tests & refractometry.",
+        "The isolation room is specially designed and equipped for infectious cases. We provide rapid lab testing, snap tests, and refractometry.",
     },
     {
+      slug: "pet-smart",
       icon: <Pill className="w-8 h-8 text-blue-600" />,
       title: "Pet Smart",
       description:
-        "For your flexibility we have developed a Pet market value hospital itself, which requires all pet accessories, pet food choices, pet full plastic shampoos, tick and flea prevention powders.",
+        "We’ve developed an in-house pet market with all pet accessories, food, shampoos, and tick/flea prevention products.",
     },
     {
+      slug: "emergency-opd",
       icon: <Clock className="w-8 h-8 text-blue-600" />,
-      title: "24 hour/ 365 days Emergency & O.P.D",
+      title: "24 hour / 365 days Emergency & O.P.D",
       description:
-        "The Hospital is well equipped to receive and treat medical emergencies around the clock.",
+        "The hospital is well equipped to receive and treat medical emergencies around the clock.",
     },
     {
+      slug: "x-ray-services",
       icon: <X className="w-8 h-8 text-blue-600" />,
       title: "X-Ray",
       description:
-        "Our hospital is equipped with x-ray, Macintosh & Pet Travel Documentation. We plan 365 marketing (7 days/7:45) and assist with Health & certification for international Pet movement.",
+        "We offer X-ray services, Macintosh access, and pet travel documentation including health certification for international movement.",
     },
     {
+      slug: "wellness-vaccination",
       icon: <Syringe className="w-8 h-8 text-blue-600" />,
       title: "Wellness Exam & Vaccination",
       description:
-        "Our routine health care include physical examination of pets, vaccination de-worming and flea & tick prevention. We maintain an international standard vaccination program.",
+        "Routine health care includes physical exams, vaccinations, de-worming, and tick/flea prevention. We follow international standards.",
     },
     {
+      slug: "home-service",
       icon: <Home className="w-8 h-8 text-blue-600" />,
       title: "Home Service",
       description:
-        "Our doctors are well qualified & equipped to handle and treat medical emergencies around the clock to provide home service to your pet and all type of domestic animals.",
+        "Our qualified doctors are equipped to treat medical emergencies at your home for pets and all types of domestic animals.",
     },
   ];
 
@@ -98,6 +111,7 @@ const Services = () => {
           {services.map((service, index) => (
             <div
               key={index}
+              onClick={() => navigate(`/services/${service.slug}`)}
               className="bg-white rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300 p-6"
             >
               {/* Icon Container */}
@@ -128,7 +142,11 @@ const Services = () => {
           <p className="text-xl mb-6">
             Contact us today to schedule an appointment
           </p>
-          <button className="bg-orange-500 hover:bg-orange-600 text-white font-bold py-3 px-8 rounded-lg transition-colors duration-300">
+          <button
+            id="booking-form"
+            onClick={() => navigate("/services/form")}
+            className="bg-orange-500 hover:bg-orange-600 text-white font-bold py-3 px-8 rounded-lg transition-colors duration-300"
+          >
             Book Appointment
           </button>
         </div>

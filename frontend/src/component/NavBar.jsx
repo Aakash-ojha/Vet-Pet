@@ -17,8 +17,9 @@ const navItems = [
       { name: "Surgery", path: "/services/surgery" },
     ],
   },
-  { name: "Form", path: "/form" },
-  { name: "All Doctors", path: "/doctors" },
+  { name: "Shop", path: "/shop" },
+  // { name: "Form", path: "/form" },
+  { name: "Doctors", path: "/doctors" },
   { name: "About", path: "/about" },
   { name: "Contact", path: "/contact" },
 ];
