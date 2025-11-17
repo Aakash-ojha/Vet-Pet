@@ -5,8 +5,8 @@ import styles from "./OrderSummary.module.css";
 const OrderSummary = ({ cartitems = [], cartTotal = 0, tax = 0 }) => {
   // Better calculation with proper number handling
   const subtotal = Number(cartTotal).toFixed(2);
-  const taxAmount = Number(tax).toFixed(2);
-  const total = (Number(cartTotal) + Number(tax)).toFixed(2);
+  const taxAmount = Number(subtotal * 0.13);
+  const total = Number(cartTotal) + Number(taxAmount);
 
   // Check if cart is empty
   const isCartEmpty = cartitems.length === 0;
@@ -60,13 +60,13 @@ const OrderSummary = ({ cartitems = [], cartTotal = 0, tax = 0 }) => {
               <div className="price-breakdown">
                 <div className="d-flex justify-content-between mb-2">
                   <span className="text-muted">Subtotal:</span>
-                  <span>${subtotal}</span>
+                  <span>Rs {subtotal}</span>
                 </div>
 
                 {Number(tax) > 0 && (
                   <div className="d-flex justify-content-between mb-2">
                     <span className="text-muted">Tax:</span>
-                    <span>${taxAmount}</span>
+                    <span>Rs {taxAmount}</span>
                   </div>
                 )}
 
@@ -74,7 +74,7 @@ const OrderSummary = ({ cartitems = [], cartTotal = 0, tax = 0 }) => {
 
                 <div className="d-flex justify-content-between">
                   <h6 className="mb-0 fw-bold">Total:</h6>
-                  <h6 className="mb-0 fw-bold text-primary">${total}</h6>
+                  <h6 className="mb-0 fw-bold text-primary">Rs {total}</h6>
                 </div>
               </div>
             </>

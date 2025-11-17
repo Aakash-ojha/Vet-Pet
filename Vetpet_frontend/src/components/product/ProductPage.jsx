@@ -91,20 +91,16 @@ const ProductPage = ({ setNumberCartItems }) => {
               />
             </div>
             <div className="col-md-6">
-              <div className="small mb-1">SKU: BST-498</div>
+              <div className="small mb-1"></div>
               <h1 className="display-5 fw-bolder">{product.name}</h1>
               <div className="fs-5 mb-5">
-                <span className="text-decoration-line-through">{`$${(
-                  Number(product.price) + 20
-                ).toFixed(2)}`}</span>
-                <span>{product.price}</span>
+                <span className="text-decoration-line-through">{`Rs${
+                  Number(product.price) + 1000
+                }`}</span>
+
+                <span className="ms-2"> Rs{product.price}</span>
               </div>
-              <p className="lead">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Praesentium at dolorem quidem modi. Nam sequi consequatur
-                obcaecati excepturi alias magni, accusamus eius blanditiis
-                delectus ipsam minima ea iste laborum vero?
-              </p>
+              <p className="lead">{product.description}</p>
               <div className="d-flex">
                 {/*must be needed,so donot delete it */}
                 {/* <input

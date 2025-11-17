@@ -129,8 +129,9 @@ const Shop = () => {
                   {/* Product details */}
                   <div className="card-body p-4">
                     <div className="text-center">
-                      <h5 className="fw-bolder">{product.name}</h5>$
-                      {product.price}
+                      <h5 className="fw-bolder">{product.name}</h5>
+                      <span className="ms-3">Rs</span>
+                      <span className="ms-1">{product.price}</span>
                     </div>
                   </div>
 

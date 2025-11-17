@@ -2,10 +2,12 @@ import { Link } from "react-router-dom";
 
 const CartSummary = ({ cartTotal, tax }) => {
   const sumTotal = Number(cartTotal).toFixed(2);
-  const cartTax = Number(tax).toFixed(2);
 
+  // Calculate cartTax based on sumTotal
+  const cartTax = (Number(sumTotal) * 0.13).toFixed(2);
+
+  // Calculate total including tax
   const total = (Number(sumTotal) + Number(cartTax)).toFixed(2);
-
   return (
     <div className="col-md-4 align-self-start">
       <div className="card">
@@ -14,15 +16,15 @@ const CartSummary = ({ cartTotal, tax }) => {
           <hr />
           <div className="d-flex justify-content-between">
             <span>Subtotal:</span>
-            <span>{`$${sumTotal}`}</span>
+            <span>{`Rs ${sumTotal}`}</span>
           </div>
           <div className="d-flex justify-content-between">
             <span>Tax:</span>
-            <span>{`$${cartTax}`}</span>
+            <span>{`Rs ${cartTax}`}</span>
           </div>
           <div className="d-flex justify-content-between mb-3">
             <span>Total:</span>
-            <strong>${total}</strong>
+            <strong>Rs {total}</strong>
           </div>
           <Link to="/checkout">
             <button

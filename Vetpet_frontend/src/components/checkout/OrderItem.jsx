@@ -28,7 +28,7 @@ const OrderItem = ({ cartitem }) => {
           <small>Quantity: {cartitem.quantity || 1}</small>
         </div>
       </div>
-      <h6>{`$${cartitem.product.price}`}</h6>
+      <h6>{`Rs ${cartitem.product.price}`}</h6>
     </div>
   );
 };
