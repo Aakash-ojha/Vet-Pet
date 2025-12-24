@@ -27,7 +27,10 @@ const Footer = () => {
 
         {/* Social Media Icons Section */}
         <div className="mb-2">
-          <a href="#" className="text-white mx-2">
+          <a
+            href="https://www.facebook.com/ezone.timilsina?rdid=HiPDGaCfS94RoS9N&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1GtP1KMx1m%2F#"
+            className="text-white mx-2"
+          >
             <FaFacebook />
           </a>
           <a href="#" className="text-white mx-2">
