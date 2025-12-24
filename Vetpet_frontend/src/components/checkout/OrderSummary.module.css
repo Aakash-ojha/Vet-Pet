@@ -1,0 +1,37 @@
+.card {
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.customScroll {
+  scrollbar-width: thin;
+  scrollbar-color: #6058dc #f1f1f1;
+}
+
+.customScroll::-webkit-scrollbar {
+  width: 8px;
+}
+
+.customScroll::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 4px;
+}
+
+.customScroll::-webkit-scrollbar-thumb {
+  background: #6058dc;
+  border-radius: 4px;
+  transition: background 0.2s ease;
+}
+
+.customScroll::-webkit-scrollbar-thumb:hover {
+  background: #4b3bcb;
+}
+
+.customScroll {
+  scroll-behavior: smooth;
+}
+
+.customScroll:hover {
+  box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.2s ease;
+}
