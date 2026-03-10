@@ -131,7 +131,3 @@ SIMPLE_JWT = {"ACCESS_TOKEN_LIFETIME": timedelta(minutes=60)}
 
 # ── Esewa ─────────────────────────────────────────────────
 ESEWA_SECRET_KEY = os.environ.get("ESEWA_SECRET_KEY")
-
-
-DEBUG = True
-ESEWA_SECRET_KEY = os.environ.get("ESEWA_SECRET_KEY")

@@ -1,0 +1,46 @@
+[
+{
+  "model": "core.customuser",
+  "pk": 5,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$siMqOeNAQtuR3FFYd62OqJ$BlHyWC3afIxT5s8ZdCFKGOJWnK0+nBYFuoLgRqNwzUA=",
+    "last_login": "2025-12-24T04:07:27.133Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2025-10-29T03:18:45.513Z",
+    "city": null,
+    "state": null,
+    "phone": null,
+    "address": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.customuser",
+  "pk": 6,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$07UigiUsadf3kNxzeXWEqB$7qVDwQvCQ1YFwM9RcEX6ikdZ9ut0AckagPngIlFPe0A=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Test",
+    "first_name": "Test",
+    "last_name": "best",
+    "email": "test@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-11-02T07:04:34Z",
+    "city": "Chitwan",
+    "state": null,
+    "phone": "9812345678",
+    "address": "Bharatpur-10",
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]

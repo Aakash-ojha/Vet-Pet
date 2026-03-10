@@ -1,0 +1,247 @@
+[
+{
+  "model": "appointment.pet",
+  "pk": 15,
+  "fields": {
+    "owner": null,
+    "name": "ayhgfd",
+    "species": "cat",
+    "age": 344,
+    "condition": "hjvgkjiu",
+    "image": "pet_images/BlackDog_vOWfYLm.jpg"
+  }
+},
+{
+  "model": "appointment.pet",
+  "pk": 21,
+  "fields": {
+    "owner": null,
+    "name": "rtr",
+    "species": "dog",
+    "age": 22,
+    "condition": "fsd",
+    "image": "pet_images/BlackDog_JMfMt69.jpg"
+  }
+},
+{
+  "model": "appointment.pet",
+  "pk": 23,
+  "fields": {
+    "owner": 5,
+    "name": "Rocky",
+    "species": "dog",
+    "age": 15,
+    "condition": "asdfjdnfs",
+    "image": "pet_images/images.jpeg"
+  }
+},
+{
+  "model": "appointment.pet",
+  "pk": 25,
+  "fields": {
+    "owner": 5,
+    "name": "Rocky",
+    "species": "dog",
+    "age": 12,
+    "condition": "fsda",
+    "image": ""
+  }
+},
+{
+  "model": "appointment.doctor",
+  "pk": 5,
+  "fields": {
+    "name": "Sanjay Ghimire",
+    "location": "bh-13",
+    "age": 23,
+    "specialty": "Veterinary Doctor",
+    "image": "doctor_images/doc1.png",
+    "is_available": true,
+    "doctor_type": "vet",
+    "created_at": "2025-11-02T03:32:28.041Z",
+    "updated_at": "2025-11-17T03:35:27.189Z"
+  }
+},
+{
+  "model": "appointment.doctor",
+  "pk": 6,
+  "fields": {
+    "name": "Abhijit Sapkota",
+    "location": "bh-9",
+    "age": 23,
+    "specialty": "Veterinary Doctor",
+    "image": "doctor_images/doc3.png",
+    "is_available": true,
+    "doctor_type": "vet",
+    "created_at": "2025-11-02T03:33:37.427Z",
+    "updated_at": "2025-11-17T03:35:22.988Z"
+  }
+},
+{
+  "model": "appointment.doctor",
+  "pk": 7,
+  "fields": {
+    "name": "Prabesh Poudel",
+    "location": "bh-4",
+    "age": 37,
+    "specialty": "Veterinary Doctor",
+    "image": "doctor_images/doc7.png",
+    "is_available": true,
+    "doctor_type": "vet",
+    "created_at": "2025-11-02T03:35:06.867Z",
+    "updated_at": "2025-11-17T03:35:19.327Z"
+  }
+},
+{
+  "model": "appointment.doctor",
+  "pk": 8,
+  "fields": {
+    "name": "Yubraj Poudel",
+    "location": "bh-18",
+    "age": 25,
+    "specialty": "Veterinary Doctor",
+    "image": "doctor_images/doc12.png",
+    "is_available": true,
+    "doctor_type": "assistant",
+    "created_at": "2025-11-02T03:36:04.224Z",
+    "updated_at": "2025-11-17T03:35:11.809Z"
+  }
+},
+{
+  "model": "appointment.doctor",
+  "pk": 9,
+  "fields": {
+    "name": "Mahesh Neupane",
+    "location": "bh-13",
+    "age": 23,
+    "specialty": "Veterinary Doctor",
+    "image": "doctor_images/doc14.png",
+    "is_available": true,
+    "doctor_type": "surgeon",
+    "created_at": "2025-11-02T03:37:10.343Z",
+    "updated_at": "2025-11-17T03:35:02.711Z"
+  }
+},
+{
+  "model": "appointment.doctor",
+  "pk": 10,
+  "fields": {
+    "name": "Rupesh lamsal",
+    "location": "bh-7",
+    "age": 39,
+    "specialty": "Veterinary Doctor",
+    "image": "doctor_images/doc10.png",
+    "is_available": true,
+    "doctor_type": "vet",
+    "created_at": "2025-11-02T03:38:09.039Z",
+    "updated_at": "2025-11-17T03:34:58.047Z"
+  }
+},
+{
+  "model": "appointment.doctor",
+  "pk": 11,
+  "fields": {
+    "name": "Anisha Chaudary",
+    "location": "bh-19",
+    "age": 26,
+    "specialty": "Veterinary Doctor",
+    "image": "doctor_images/doc11.png",
+    "is_available": true,
+    "doctor_type": "vet",
+    "created_at": "2025-11-02T03:40:22.898Z",
+    "updated_at": "2025-11-17T03:34:50.970Z"
+  }
+},
+{
+  "model": "appointment.doctoravailability",
+  "pk": 6,
+  "fields": {
+    "doctor": 5,
+    "date": "2025-11-02",
+    "start_time": "10:10:00",
+    "end_time": "18:00:00",
+    "is_booked": false
+  }
+},
+{
+  "model": "appointment.doctoravailability",
+  "pk": 7,
+  "fields": {
+    "doctor": 6,
+    "date": "2025-11-02",
+    "start_time": "10:10:00",
+    "end_time": "18:00:00",
+    "is_booked": true
+  }
+},
+{
+  "model": "appointment.doctoravailability",
+  "pk": 8,
+  "fields": {
+    "doctor": 7,
+    "date": "2025-11-02",
+    "start_time": "10:10:00",
+    "end_time": "23:00:00",
+    "is_booked": true
+  }
+},
+{
+  "model": "appointment.doctoravailability",
+  "pk": 9,
+  "fields": {
+    "doctor": 8,
+    "date": "2025-11-02",
+    "start_time": "10:10:00",
+    "end_time": "23:00:00",
+    "is_booked": true
+  }
+},
+{
+  "model": "appointment.doctoravailability",
+  "pk": 10,
+  "fields": {
+    "doctor": 9,
+    "date": "2025-11-02",
+    "start_time": "06:00:00",
+    "end_time": "23:00:00",
+    "is_booked": false
+  }
+},
+{
+  "model": "appointment.doctoravailability",
+  "pk": 11,
+  "fields": {
+    "doctor": 10,
+    "date": "2025-11-02",
+    "start_time": "10:10:00",
+    "end_time": "23:00:00",
+    "is_booked": false
+  }
+},
+{
+  "model": "appointment.doctoravailability",
+  "pk": 12,
+  "fields": {
+    "doctor": 11,
+    "date": "2025-11-02",
+    "start_time": "10:10:00",
+    "end_time": "23:00:00",
+    "is_booked": false
+  }
+},
+{
+  "model": "appointment.appointment",
+  "pk": 14,
+  "fields": {
+    "user": 5,
+    "pet": 25,
+    "doctor": 8,
+    "availability": 9,
+    "appointment_time": "2025-11-02T10:10:00Z",
+    "status": "scheduled",
+    "notes": null,
+    "created_at": "2025-11-02T10:33:15.010Z",
+    "updated_at": "2025-11-02T10:33:15.010Z"
+  }
+}
+]

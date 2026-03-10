@@ -1,0 +1,4119 @@
+[
+{
+  "model": "sessions.session",
+  "pk": "3jeqs9c8apar2qzbtq8xlcrodxe4tbxp",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSG08hhduu83kIFhpGogKe3K-O-WpAvd3nPOfQuP25r91tLiZxJXYcTpdwsYn6l0QA8s9ypjLesyB9kVedAmp0rpdTvcv4OMLe810NkqtGQABoLgHDureBgxoo42QsKgLDp70VrtknFsGHo0ciIOJD5f4yQ4UQ:1vFCYy:XgXtnF09pqDUPPy_ycjpqSzQOadsTrppSdRNYBLG6Hs",
+    "expire_date": "2025-11-15T14:26:40.272Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "4tpyyqn3iirnavgc6xdeb3dnuas427di",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlnrb2xKes5g7cYbHEC2FCcV4u4QKQW0b2beSyTc1pK2zkuaszgLJU6_G-H44LqDfMd6a3JsdV1mkrsiD9rltWV-Xg7376BgL99aQyBmbcFjnAxBxBw4aA9gg7OQ2Q2oESJl6weYVPDGRohGk3cAisX7A8geNqM:1ujUuY:3HG5aWrpLN02hna7Tt948CFXpi1oNyTNCNkcDna9PfY",
+    "expire_date": "2025-08-20T03:33:54.703Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "5waw0zi22w41bi2nzt93yjtjx8n1cuiw",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlnrb2xKes5g7cYbHEC2FCcV4u4QKQW0b2beSyTc1pK2zkuaszgLJU6_G-H44LqDfMd6a3JsdV1mkrsiD9rltWV-Xg7376BgL99aQyBmbcFjnAxBxBw4aA9gg7OQ2Q2oESJl6weYVPDGRohGk3cAisX7A8geNqM:1uu5Lh:ngI3djAxzcwA_OlqrjPthB01XKhNbOCarPMaTF12DAc",
+    "expire_date": "2025-09-18T08:29:41.816Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "6wk8ie0vmnoay3fendckzce95a6v7g5e",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSG08hhduu83kIFhpGogKe3K-O-WpAvd3nPOfQuP25r91tLiZxJXYcTpdwsYn6l0QA8s9ypjLesyB9kVedAmp0rpdTvcv4OMLe810NkqtGQABoLgHDureBgxoo42QsKgLDp70VrtknFsGHo0ciIOJD5f4yQ4UQ:1vDwiE:inNxuXCKWwsq0GnsjgA6F82dloc-cY6IcttqcfdPo9Y",
+    "expire_date": "2025-11-12T03:19:02.303Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "7m9lyg6cdn1z21gdzet647gngkheogxp",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlnrb2xKes5g7cYbHEC2FCcV4u4QKQW0b2beSyTc1pK2zkuaszgLJU6_G-H44LqDfMd6a3JsdV1mkrsiD9rltWV-Xg7376BgL99aQyBmbcFjnAxBxBw4aA9gg7OQ2Q2oESJl6weYVPDGRohGk3cAisX7A8geNqM:1uu4L3:bf-JRtA_QSUVJpFPqPOKrfFXibiPzE4kAsbZa5RAyGc",
+    "expire_date": "2025-09-18T07:24:57.837Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "9y8gz77s2rlbboqf4aq3padb3ku0ivza",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSG08hhduu83kIFhpGogKe3K-O-WpAvd3nPOfQuP25r91tLiZxJXYcTpdwsYn6l0QA8s9ypjLesyB9kVedAmp0rpdTvcv4OMLe810NkqtGQABoLgHDureBgxoo42QsKgLDp70VrtknFsGHo0ciIOJD5f4yQ4UQ:1vEMD7:JlLPrZJbIaRjyPKMIMqkFYc5b1gqmhTwvQnj3g2t574",
+    "expire_date": "2025-11-13T06:32:37.994Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "fg1qu3m7u5ovcd34qfvldwsv8fagaes1",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlnrb2xKes5g7cYbHEC2FCcV4u4QKQW0b2beSyTc1pK2zkuaszgLJU6_G-H44LqDfMd6a3JsdV1mkrsiD9rltWV-Xg7376BgL99aQyBmbcFjnAxBxBw4aA9gg7OQ2Q2oESJl6weYVPDGRohGk3cAisX7A8geNqM:1uirAu:OJ41USjvxC1Dn46AXqtKkePNTmlfM9gUcmeX3SGtdH0",
+    "expire_date": "2025-08-18T09:08:08.671Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "fscd6ozbheb2d9zd8x89a8mjm72l02j8",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlnrb2xKes5g7cYbHEC2FCcV4u4QKQW0b2beSyTc1pK2zkuaszgLJU6_G-H44LqDfMd6a3JsdV1mkrsiD9rltWV-Xg7376BgL99aQyBmbcFjnAxBxBw4aA9gg7OQ2Q2oESJl6weYVPDGRohGk3cAisX7A8geNqM:1urVcJ:0rqNq7_ya5XBpa-TiDTxj0ztIXLTecQzFJYnfiipmNQ",
+    "expire_date": "2025-09-11T05:56:11.715Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "go9fa6et90gny6u25kfa0pysckobxr2w",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlnrb2xKes5g7cYbHEC2FCcV4u4QKQW0b2beSyTc1pK2zkuaszgLJU6_G-H44LqDfMd6a3JsdV1mkrsiD9rltWV-Xg7376BgL99aQyBmbcFjnAxBxBw4aA9gg7OQ2Q2oESJl6weYVPDGRohGk3cAisX7A8geNqM:1ujV2T:lIBtgefBNk-Ef7QU6zNzTqLqKNs90vYVaLJr0yVLi1k",
+    "expire_date": "2025-08-20T03:42:05.913Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "iz9ts8jkcy1y6apmrqiqu0l6n340zj8p",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlnrb2xKes5g7cYbHEC2FCcV4u4QKQW0b2beSyTc1pK2zkuaszgLJU6_G-H44LqDfMd6a3JsdV1mkrsiD9rltWV-Xg7376BgL99aQyBmbcFjnAxBxBw4aA9gg7OQ2Q2oESJl6weYVPDGRohGk3cAisX7A8geNqM:1uoapN:KqSf6syo1PRdl9DLfQ_7WHZ7JTuom6kOXCxLxi_dudE",
+    "expire_date": "2025-09-03T04:53:37.791Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "l3g8io5upy954z9e99p8kcc2fv8ml6ry",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlnrb2xKes5g7cYbHEC2FCcV4u4QKQW0b2beSyTc1pK2zkuaszgLJU6_G-H44LqDfMd6a3JsdV1mkrsiD9rltWV-Xg7376BgL99aQyBmbcFjnAxBxBw4aA9gg7OQ2Q2oESJl6weYVPDGRohGk3cAisX7A8geNqM:1uu1EY:5H1auMqT9bp7y_pqGlmt7KwGakmWn5c1cax6uHJJMx0",
+    "expire_date": "2025-09-18T04:06:02.525Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "lgvdb8l4u2i6lxyeen50n1x3j7mkvg6y",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSG08hhduu83kIFhpGogKe3K-O-WpAvd3nPOfQuP25r91tLiZxJXYcTpdwsYn6l0QA8s9ypjLesyB9kVedAmp0rpdTvcv4OMLe810NkqtGQABoLgHDureBgxoo42QsKgLDp70VrtknFsGHo0ciIOJD5f4yQ4UQ:1vKq8Z:FqIo0KpV8xtnjcTbj-7HbamZKGAQGEhm_WZO3-UH37k",
+    "expire_date": "2025-12-01T03:42:43.594Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "lzi2trl4099bfqbshcf74na407sd6bcg",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlnrb2xKes5g7cYbHEC2FCcV4u4QKQW0b2beSyTc1pK2zkuaszgLJU6_G-H44LqDfMd6a3JsdV1mkrsiD9rltWV-Xg7376BgL99aQyBmbcFjnAxBxBw4aA9gg7OQ2Q2oESJl6weYVPDGRohGk3cAisX7A8geNqM:1uvT1o:fXfsZyoBOw5prkZzj_pYiCDvrakRu3sd1TdEf4a3nJE",
+    "expire_date": "2025-09-22T03:58:52.366Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "mknvcbpvccie73520fp3kp43733ph197",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSG08hhduu83kIFhpGogKe3K-O-WpAvd3nPOfQuP25r91tLiZxJXYcTpdwsYn6l0QA8s9ypjLesyB9kVedAmp0rpdTvcv4OMLe810NkqtGQABoLgHDureBgxoo42QsKgLDp70VrtknFsGHo0ciIOJD5f4yQ4UQ:1vYG9n:E897GKslgeOG3FD4-gKMUQFvX_AUbkOk-P3JshDEt7k",
+    "expire_date": "2026-01-07T04:07:27.137Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "rv2eybocd0wq8suoaafub0zodh20tay2",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSG08hhduu83kIFhpGogKe3K-O-WpAvd3nPOfQuP25r91tLiZxJXYcTpdwsYn6l0QA8s9ypjLesyB9kVedAmp0rpdTvcv4OMLe810NkqtGQABoLgHDureBgxoo42QsKgLDp70VrtknFsGHo0ciIOJD5f4yQ4UQ:1vNrc7:R6aQ6h0AmcZ3ro8v219DnsjBQsdDG1TPwLUB8F5OOBg",
+    "expire_date": "2025-12-09T11:53:43.679Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "s098p96hmanv2hk44f77pfam6motktrw",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSG08hhduu83kIFhpGogKe3K-O-WpAvd3nPOfQuP25r91tLiZxJXYcTpdwsYn6l0QA8s9ypjLesyB9kVedAmp0rpdTvcv4OMLe810NkqtGQABoLgHDureBgxoo42QsKgLDp70VrtknFsGHo0ciIOJD5f4yQ4UQ:1vE1Qg:fG0thKb70YgwKrQVSFLxKvYaOhTw7rht5aEzFVQLeVI",
+    "expire_date": "2025-11-12T08:21:14.752Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "yjbfx9uucwr1tf1ywbdg1tavq8fg03y4",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlnrb2xKes5g7cYbHEC2FCcV4u4QKQW0b2beSyTc1pK2zkuaszgLJU6_G-H44LqDfMd6a3JsdV1mkrsiD9rltWV-Xg7376BgL99aQyBmbcFjnAxBxBw4aA9gg7OQ2Q2oESJl6weYVPDGRohGk3cAisX7A8geNqM:1uvT1p:9YXRo1QbCSYhjzreR_s2IBFH0GX6WzhLRFZqi6UDVfs",
+    "expire_date": "2025-09-22T03:58:53.153Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "zrhepfmyduh1yjs26kt5no35ee2hy1dl",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlnrb2xKes5g7cYbHEC2FCcV4u4QKQW0b2beSyTc1pK2zkuaszgLJU6_G-H44LqDfMd6a3JsdV1mkrsiD9rltWV-Xg7376BgL99aQyBmbcFjnAxBxBw4aA9gg7OQ2Q2oESJl6weYVPDGRohGk3cAisX7A8geNqM:1vBlpL:ErBQurvqsqj0rnyea1C122As4elG_FVC-7GgeYGDIqU",
+    "expire_date": "2025-11-06T03:17:23.809Z"
+  }
+},
+{
+  "model": "shop_app.product",
+  "pk": 2,
+  "fields": {
+    "name": "Happy",
+    "slug": "image",
+    "image": "img/imageDog.jpg",
+    "description": "",
+    "price": "10000.00",
+    "category": "Accessories"
+  }
+},
+{
+  "model": "shop_app.product",
+  "pk": 8,
+  "fields": {
+    "name": "BabyDog",
+    "slug": "BabyDog",
+    "image": "img/BabyDog.jpg",
+    "description": "Small ,White in color ,month only",
+    "price": "5000.00",
+    "category": "Accessories"
+  }
+},
+{
+  "model": "shop_app.product",
+  "pk": 9,
+  "fields": {
+    "name": "Golden Retriever",
+    "slug": "GoldenRetriever",
+    "image": "img/GoldenRetriever.jpg",
+    "description": "A loving and energetic Golden Retriever with a sweet temperament. Great with families and ideal for both companionship and active lifestyles. Loyal, intelligent, and affectionate, making them one of the most popular family pets.",
+    "price": "50000.00",
+    "category": "Dog"
+  }
+},
+{
+  "model": "shop_app.product",
+  "pk": 10,
+  "fields": {
+    "name": "German",
+    "slug": "German",
+    "image": "img/GermanDog.jpg",
+    "description": "German shearpard",
+    "price": "100000.00",
+    "category": null
+  }
+},
+{
+  "model": "shop_app.product",
+  "pk": 15,
+  "fields": {
+    "name": "Belt",
+    "slug": "belt",
+    "image": "img/dog_belt.jpg",
+    "description": "Keep your small furry friend safe and comfortable with this durable dog belt. Designed for small breeds, it features an adjustable strap for a snug fit, soft padding for comfort, and a sturdy buckle for security during walks or travel.",
+    "price": "300.00",
+    "category": "Accessories"
+  }
+},
+{
+  "model": "shop_app.product",
+  "pk": 16,
+  "fields": {
+    "name": "Cat Food",
+    "slug": "catfood",
+    "image": "img/catFood.webp",
+    "description": "Give your feline friend the nutrition they deserve with our Premium Cat Food-specially formulated to support overall health, energy, and vitality. Made with high-quality ingredients and essential nutrients, this food provides a perfectly balanced diet that satisfies even the pickiest eaters.",
+    "price": "200.00",
+    "category": "Petfood"
+  }
+},
+{
+  "model": "shop_app.product",
+  "pk": 17,
+  "fields": {
+    "name": "Dog Food",
+    "slug": "dogfood",
+    "image": "img/Dog_food_in_a_bowl.jpg",
+    "description": "Fresh meals made from meat, rice, and vegetables.",
+    "price": "250.00",
+    "category": "Petfood"
+  }
+},
+{
+  "model": "shop_app.product",
+  "pk": 18,
+  "fields": {
+    "name": "Dog Toy",
+    "slug": "toy",
+    "image": "img/Puppy-chewing-dog-toy_resized.jpg",
+    "description": "Soft and comforting, ideal for light play or cuddling",
+    "price": "3000.00",
+    "category": "Accessories"
+  }
+},
+{
+  "model": "shop_app.cartitem",
+  "pk": 11,
+  "fields": {
+    "cart": 1,
+    "product": 2,
+    "quantity": 1
+  }
+},
+{
+  "model": "shop_app.cartitem",
+  "pk": 35,
+  "fields": {
+    "cart": 5,
+    "product": 9,
+    "quantity": 2
+  }
+},
+{
+  "model": "shop_app.cartitem",
+  "pk": 54,
+  "fields": {
+    "cart": 10,
+    "product": 8,
+    "quantity": 1
+  }
+},
+{
+  "model": "shop_app.cartitem",
+  "pk": 57,
+  "fields": {
+    "cart": 4,
+    "product": 15,
+    "quantity": 1
+  }
+},
+{
+  "model": "shop_app.cartitem",
+  "pk": 59,
+  "fields": {
+    "cart": 11,
+    "product": 9,
+    "quantity": 1
+  }
+},
+{
+  "model": "shop_app.cartitem",
+  "pk": 61,
+  "fields": {
+    "cart": 12,
+    "product": 8,
+    "quantity": 1
+  }
+},
+{
+  "model": "appointment.doctor",
+  "pk": 5,
+  "fields": {
+    "name": "Sanjay Ghimire",
+    "location": "bh-13",
+    "age": 23,
+    "specialty": "Veterinary Doctor",
+    "image": "doctor_images/doc1.png",
+    "is_available": true,
+    "doctor_type": "vet",
+    "created_at": "2025-11-02T03:32:28.041Z",
+    "updated_at": "2025-11-17T03:35:27.189Z"
+  }
+},
+{
+  "model": "appointment.doctor",
+  "pk": 6,
+  "fields": {
+    "name": "Abhijit Sapkota",
+    "location": "bh-9",
+    "age": 23,
+    "specialty": "Veterinary Doctor",
+    "image": "doctor_images/doc3.png",
+    "is_available": true,
+    "doctor_type": "vet",
+    "created_at": "2025-11-02T03:33:37.427Z",
+    "updated_at": "2025-11-17T03:35:22.988Z"
+  }
+},
+{
+  "model": "appointment.doctor",
+  "pk": 7,
+  "fields": {
+    "name": "Prabesh Poudel",
+    "location": "bh-4",
+    "age": 37,
+    "specialty": "Veterinary Doctor",
+    "image": "doctor_images/doc7.png",
+    "is_available": true,
+    "doctor_type": "vet",
+    "created_at": "2025-11-02T03:35:06.867Z",
+    "updated_at": "2025-11-17T03:35:19.327Z"
+  }
+},
+{
+  "model": "appointment.doctor",
+  "pk": 8,
+  "fields": {
+    "name": "Yubraj Poudel",
+    "location": "bh-18",
+    "age": 25,
+    "specialty": "Veterinary Doctor",
+    "image": "doctor_images/doc12.png",
+    "is_available": true,
+    "doctor_type": "assistant",
+    "created_at": "2025-11-02T03:36:04.224Z",
+    "updated_at": "2025-11-17T03:35:11.809Z"
+  }
+},
+{
+  "model": "appointment.doctor",
+  "pk": 9,
+  "fields": {
+    "name": "Mahesh Neupane",
+    "location": "bh-13",
+    "age": 23,
+    "specialty": "Veterinary Doctor",
+    "image": "doctor_images/doc14.png",
+    "is_available": true,
+    "doctor_type": "surgeon",
+    "created_at": "2025-11-02T03:37:10.343Z",
+    "updated_at": "2025-11-17T03:35:02.711Z"
+  }
+},
+{
+  "model": "appointment.doctor",
+  "pk": 10,
+  "fields": {
+    "name": "Rupesh lamsal",
+    "location": "bh-7",
+    "age": 39,
+    "specialty": "Veterinary Doctor",
+    "image": "doctor_images/doc10.png",
+    "is_available": true,
+    "doctor_type": "vet",
+    "created_at": "2025-11-02T03:38:09.039Z",
+    "updated_at": "2025-11-17T03:34:58.047Z"
+  }
+},
+{
+  "model": "appointment.doctor",
+  "pk": 11,
+  "fields": {
+    "name": "Anisha Chaudary",
+    "location": "bh-19",
+    "age": 26,
+    "specialty": "Veterinary Doctor",
+    "image": "doctor_images/doc11.png",
+    "is_available": true,
+    "doctor_type": "vet",
+    "created_at": "2025-11-02T03:40:22.898Z",
+    "updated_at": "2025-11-17T03:34:50.970Z"
+  }
+},
+{
+  "model": "appointment.doctoravailability",
+  "pk": 6,
+  "fields": {
+    "doctor": 5,
+    "date": "2025-11-02",
+    "start_time": "10:10:00",
+    "end_time": "18:00:00",
+    "is_booked": false
+  }
+},
+{
+  "model": "appointment.doctoravailability",
+  "pk": 7,
+  "fields": {
+    "doctor": 6,
+    "date": "2025-11-02",
+    "start_time": "10:10:00",
+    "end_time": "18:00:00",
+    "is_booked": true
+  }
+},
+{
+  "model": "appointment.doctoravailability",
+  "pk": 8,
+  "fields": {
+    "doctor": 7,
+    "date": "2025-11-02",
+    "start_time": "10:10:00",
+    "end_time": "23:00:00",
+    "is_booked": true
+  }
+},
+{
+  "model": "appointment.doctoravailability",
+  "pk": 9,
+  "fields": {
+    "doctor": 8,
+    "date": "2025-11-02",
+    "start_time": "10:10:00",
+    "end_time": "23:00:00",
+    "is_booked": true
+  }
+},
+{
+  "model": "appointment.doctoravailability",
+  "pk": 10,
+  "fields": {
+    "doctor": 9,
+    "date": "2025-11-02",
+    "start_time": "06:00:00",
+    "end_time": "23:00:00",
+    "is_booked": false
+  }
+},
+{
+  "model": "appointment.doctoravailability",
+  "pk": 11,
+  "fields": {
+    "doctor": 10,
+    "date": "2025-11-02",
+    "start_time": "10:10:00",
+    "end_time": "23:00:00",
+    "is_booked": false
+  }
+},
+{
+  "model": "appointment.doctoravailability",
+  "pk": 12,
+  "fields": {
+    "doctor": 11,
+    "date": "2025-11-02",
+    "start_time": "10:10:00",
+    "end_time": "23:00:00",
+    "is_booked": false
+  }
+},
+{
+  "model": "core.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$siMqOeNAQtuR3FFYd62OqJ$BlHyWC3afIxT5s8ZdCFKGOJWnK0+nBYFuoLgRqNwzUA=",
+    "last_login": "2025-12-24T04:07:27.133Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2025-10-29T03:18:45.513Z",
+    "city": null,
+    "state": null,
+    "phone": null,
+    "address": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$07UigiUsadf3kNxzeXWEqB$7qVDwQvCQ1YFwM9RcEX6ikdZ9ut0AckagPngIlFPe0A=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Test",
+    "first_name": "Test",
+    "last_name": "best",
+    "email": "test@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-11-02T07:04:34Z",
+    "city": "Chitwan",
+    "state": null,
+    "phone": "9812345678",
+    "address": "Bharatpur-10",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "appointment.appointment",
+  "pk": 14,
+  "fields": {
+    "user": [
+      "admin"
+    ],
+    "pet": 25,
+    "doctor": 8,
+    "availability": 9,
+    "appointment_time": "2025-11-02T10:10:00Z",
+    "status": "scheduled",
+    "notes": null,
+    "created_at": "2025-11-02T10:33:15.010Z",
+    "updated_at": "2025-11-02T10:33:15.010Z"
+  }
+},
+{
+  "model": "appointment.pet",
+  "pk": 15,
+  "fields": {
+    "owner": null,
+    "name": "ayhgfd",
+    "species": "cat",
+    "age": 344,
+    "condition": "hjvgkjiu",
+    "image": "pet_images/BlackDog_vOWfYLm.jpg"
+  }
+},
+{
+  "model": "appointment.pet",
+  "pk": 21,
+  "fields": {
+    "owner": null,
+    "name": "rtr",
+    "species": "dog",
+    "age": 22,
+    "condition": "fsd",
+    "image": "pet_images/BlackDog_JMfMt69.jpg"
+  }
+},
+{
+  "model": "appointment.pet",
+  "pk": 23,
+  "fields": {
+    "owner": [
+      "admin"
+    ],
+    "name": "Rocky",
+    "species": "dog",
+    "age": 15,
+    "condition": "asdfjdnfs",
+    "image": "pet_images/images.jpeg"
+  }
+},
+{
+  "model": "appointment.pet",
+  "pk": 25,
+  "fields": {
+    "owner": [
+      "admin"
+    ],
+    "name": "Rocky",
+    "species": "dog",
+    "age": 12,
+    "condition": "fsda",
+    "image": ""
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 40,
+  "fields": {
+    "ref": "TXN-000040",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T03:19:55.425Z",
+    "modified_at": "2025-11-01T14:07:16.687Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 41,
+  "fields": {
+    "ref": "TXN-000041",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T03:19:58.194Z",
+    "modified_at": "2025-11-01T14:07:16.693Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 42,
+  "fields": {
+    "ref": "TXN-000042",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T03:19:58.368Z",
+    "modified_at": "2025-11-01T14:07:16.696Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 43,
+  "fields": {
+    "ref": "TXN-000043",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T03:19:59.633Z",
+    "modified_at": "2025-11-01T14:07:16.699Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 44,
+  "fields": {
+    "ref": "TXN-000044",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T03:19:59.832Z",
+    "modified_at": "2025-11-01T14:07:16.701Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 45,
+  "fields": {
+    "ref": "TXN-000045",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T03:19:59.978Z",
+    "modified_at": "2025-11-01T14:07:16.705Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 46,
+  "fields": {
+    "ref": "TXN-000046",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T03:20:01.164Z",
+    "modified_at": "2025-11-01T14:07:16.709Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 47,
+  "fields": {
+    "ref": "TXN-000047",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T03:20:01.330Z",
+    "modified_at": "2025-11-01T14:07:16.711Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 48,
+  "fields": {
+    "ref": "TXN-000048",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T03:20:01.490Z",
+    "modified_at": "2025-11-01T14:07:16.713Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 49,
+  "fields": {
+    "ref": "TXN-000049",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T03:20:01.673Z",
+    "modified_at": "2025-11-01T14:07:16.715Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 50,
+  "fields": {
+    "ref": "TXN-000050",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T03:20:02.698Z",
+    "modified_at": "2025-11-01T14:07:16.717Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 51,
+  "fields": {
+    "ref": "TXN-000051",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T03:20:02.868Z",
+    "modified_at": "2025-11-01T14:07:16.719Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 52,
+  "fields": {
+    "ref": "TXN-000052",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T03:20:03.035Z",
+    "modified_at": "2025-11-01T14:07:16.721Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 53,
+  "fields": {
+    "ref": "TXN-000053",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T03:20:03.208Z",
+    "modified_at": "2025-11-01T14:07:16.722Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 54,
+  "fields": {
+    "ref": "TXN-000054",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T03:20:04.963Z",
+    "modified_at": "2025-11-01T14:07:16.725Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 55,
+  "fields": {
+    "ref": "TXN-000055",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T03:20:05.491Z",
+    "modified_at": "2025-11-01T14:07:16.726Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 56,
+  "fields": {
+    "ref": "TXN-000056",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T03:20:07.403Z",
+    "modified_at": "2025-11-01T14:07:16.728Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 57,
+  "fields": {
+    "ref": "TXN-000057",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T03:20:07.586Z",
+    "modified_at": "2025-11-01T14:07:16.730Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 58,
+  "fields": {
+    "ref": "TXN-000058",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T03:20:07.937Z",
+    "modified_at": "2025-11-01T14:07:16.732Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 59,
+  "fields": {
+    "ref": "TXN-000059",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T03:20:08.125Z",
+    "modified_at": "2025-11-01T14:07:16.733Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 60,
+  "fields": {
+    "ref": "TXN-000060",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T03:20:08.306Z",
+    "modified_at": "2025-11-01T14:07:16.735Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 61,
+  "fields": {
+    "ref": "TXN-000061",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T03:20:09.399Z",
+    "modified_at": "2025-11-01T14:07:16.737Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 62,
+  "fields": {
+    "ref": "TXN-000062",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T03:20:09.595Z",
+    "modified_at": "2025-11-01T14:07:16.739Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 63,
+  "fields": {
+    "ref": "TXN-000063",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T03:20:09.769Z",
+    "modified_at": "2025-11-01T14:07:16.741Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 64,
+  "fields": {
+    "ref": "TXN-000064",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T03:20:09.943Z",
+    "modified_at": "2025-11-01T14:07:16.742Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 65,
+  "fields": {
+    "ref": "TXN-000065",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T03:20:10.119Z",
+    "modified_at": "2025-11-01T14:07:16.744Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 66,
+  "fields": {
+    "ref": "TXN-000066",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T03:20:10.289Z",
+    "modified_at": "2025-11-01T14:07:16.746Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 67,
+  "fields": {
+    "ref": "TXN-000067",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T03:20:10.465Z",
+    "modified_at": "2025-11-01T14:07:16.748Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 68,
+  "fields": {
+    "ref": "TXN-000068",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T03:20:10.640Z",
+    "modified_at": "2025-11-01T14:07:16.750Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 69,
+  "fields": {
+    "ref": "TXN-000069",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T03:20:10.842Z",
+    "modified_at": "2025-11-01T14:07:16.752Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 70,
+  "fields": {
+    "ref": "TXN-000070",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T03:20:11.033Z",
+    "modified_at": "2025-11-01T14:07:16.753Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 71,
+  "fields": {
+    "ref": "TXN-000071",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T03:20:12.371Z",
+    "modified_at": "2025-11-01T14:07:16.755Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 72,
+  "fields": {
+    "ref": "TXN-000072",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T03:20:12.539Z",
+    "modified_at": "2025-11-01T14:07:16.757Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 73,
+  "fields": {
+    "ref": "TXN-000073",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T03:20:12.721Z",
+    "modified_at": "2025-11-01T14:07:16.759Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 74,
+  "fields": {
+    "ref": "TXN-000074",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T03:20:12.888Z",
+    "modified_at": "2025-11-01T14:07:16.761Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 75,
+  "fields": {
+    "ref": "TXN-000075",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T03:20:13.072Z",
+    "modified_at": "2025-11-01T14:07:16.762Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 76,
+  "fields": {
+    "ref": "TXN-000076",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T03:20:15.663Z",
+    "modified_at": "2025-11-01T14:07:16.764Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 77,
+  "fields": {
+    "ref": "TXN-000077",
+    "cart": 4,
+    "amount": "3.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T06:54:20.728Z",
+    "modified_at": "2025-11-01T14:07:16.766Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 78,
+  "fields": {
+    "ref": "TXN-000078",
+    "cart": 4,
+    "amount": "3.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T06:54:21.885Z",
+    "modified_at": "2025-11-01T14:07:16.768Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 79,
+  "fields": {
+    "ref": "TXN-000079",
+    "cart": 4,
+    "amount": "3.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T06:54:22.094Z",
+    "modified_at": "2025-11-01T14:07:16.770Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 80,
+  "fields": {
+    "ref": "TXN-000080",
+    "cart": 4,
+    "amount": "3.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T06:54:22.268Z",
+    "modified_at": "2025-11-01T14:07:16.771Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 81,
+  "fields": {
+    "ref": "TXN-000081",
+    "cart": 4,
+    "amount": "3.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T06:54:22.484Z",
+    "modified_at": "2025-11-01T14:07:16.773Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 82,
+  "fields": {
+    "ref": "TXN-000082",
+    "cart": 4,
+    "amount": "3.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T06:54:22.707Z",
+    "modified_at": "2025-11-01T14:07:16.775Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 83,
+  "fields": {
+    "ref": "TXN-000083",
+    "cart": 4,
+    "amount": "3.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T06:54:23.193Z",
+    "modified_at": "2025-11-01T14:07:16.777Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 84,
+  "fields": {
+    "ref": "TXN-000084",
+    "cart": 4,
+    "amount": "3.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T06:54:23.397Z",
+    "modified_at": "2025-11-01T14:07:16.779Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 85,
+  "fields": {
+    "ref": "TXN-000085",
+    "cart": 4,
+    "amount": "3.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T06:54:28.437Z",
+    "modified_at": "2025-11-01T14:07:16.781Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 86,
+  "fields": {
+    "ref": "TXN-000086",
+    "cart": 4,
+    "amount": "3.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-29T06:54:28.650Z",
+    "modified_at": "2025-11-01T14:07:16.783Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 87,
+  "fields": {
+    "ref": "TXN-000087",
+    "cart": 8,
+    "amount": "1.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-30T06:33:02.622Z",
+    "modified_at": "2025-11-01T14:07:16.784Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 88,
+  "fields": {
+    "ref": "TXN-000088",
+    "cart": 8,
+    "amount": "1.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-10-30T06:33:25.822Z",
+    "modified_at": "2025-11-01T14:07:16.786Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 89,
+  "fields": {
+    "ref": "f3661701-9b45-428a-a613-3c0c64fa7ed5",
+    "cart": 9,
+    "amount": "7.10",
+    "currency": "NPR",
+    "status": "pending",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-11-01T13:17:46.922Z",
+    "modified_at": "2025-11-01T13:17:46.922Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 90,
+  "fields": {
+    "ref": "89a0e488-7aca-42e9-a1ba-8129eb0f2435",
+    "cart": 10,
+    "amount": "5.00",
+    "currency": "NPR",
+    "status": "pending",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-11-01T14:53:33.528Z",
+    "modified_at": "2025-11-01T14:53:33.528Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 91,
+  "fields": {
+    "ref": "35d7d963-98a0-4ff2-90c1-b8cc6bc672fc",
+    "cart": 8,
+    "amount": "5.00",
+    "currency": "NPR",
+    "status": "pending",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-11-02T05:23:34.098Z",
+    "modified_at": "2025-11-02T05:23:34.098Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 92,
+  "fields": {
+    "ref": "5c4e56ce-5703-40c2-bec1-ad8cadd497e2",
+    "cart": 8,
+    "amount": "5.00",
+    "currency": "NPR",
+    "status": "pending",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-11-02T06:10:03.069Z",
+    "modified_at": "2025-11-02T06:10:03.069Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 93,
+  "fields": {
+    "ref": "1e0f398e-3df2-497e-951c-6b7f5f543519",
+    "cart": 4,
+    "amount": "6.00",
+    "currency": "NPR",
+    "status": "pending",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-11-02T06:52:17.639Z",
+    "modified_at": "2025-11-02T06:52:17.639Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 94,
+  "fields": {
+    "ref": "bee50ef4-34cf-4677-95c8-12c27efe39c7",
+    "cart": 4,
+    "amount": "7.00",
+    "currency": "NPR",
+    "status": "pending",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-11-02T08:30:55.939Z",
+    "modified_at": "2025-11-02T08:30:55.939Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 95,
+  "fields": {
+    "ref": "2990797d-d46f-4beb-95fb-d981508ccb63",
+    "cart": 4,
+    "amount": "326.00",
+    "currency": "NPR",
+    "status": "pending",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-11-02T10:29:18.394Z",
+    "modified_at": "2025-11-02T10:29:18.394Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 96,
+  "fields": {
+    "ref": "cc510a04-cef3-4170-9716-7234d617f39b",
+    "cart": 4,
+    "amount": "326.00",
+    "currency": "NPR",
+    "status": "pending",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-11-02T10:29:47.173Z",
+    "modified_at": "2025-11-02T10:29:47.174Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 97,
+  "fields": {
+    "ref": "e5c13d84-661e-4219-a49c-49cabb0a824a",
+    "cart": 4,
+    "amount": "326.00",
+    "currency": "NPR",
+    "status": "pending",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-11-02T10:30:16.465Z",
+    "modified_at": "2025-11-02T10:30:16.465Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 98,
+  "fields": {
+    "ref": "55aecd51-bfb5-4551-82fb-cb5fde0bb512",
+    "cart": 4,
+    "amount": "326.00",
+    "currency": "NPR",
+    "status": "pending",
+    "user": [
+      "admin"
+    ],
+    "created_at": "2025-11-02T10:30:16.683Z",
+    "modified_at": "2025-11-02T10:30:16.683Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 99,
+  "fields": {
+    "ref": "3f22c395-a9c6-4621-9ddb-c374f22950a1",
+    "cart": 11,
+    "amount": "50004.00",
+    "currency": "NPR",
+    "status": "pending",
+    "user": [
+      "Test"
+    ],
+    "created_at": "2025-11-17T04:36:43.676Z",
+    "modified_at": "2025-11-17T04:36:43.676Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 100,
+  "fields": {
+    "ref": "f3c01a3f-9f66-40bb-9834-6ce102946024",
+    "cart": 11,
+    "amount": "50004.00",
+    "currency": "NPR",
+    "status": "pending",
+    "user": [
+      "Test"
+    ],
+    "created_at": "2025-11-17T04:37:06.024Z",
+    "modified_at": "2025-11-17T04:37:06.024Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 101,
+  "fields": {
+    "ref": "cae21006-ddc2-4dae-8a9c-724a822686e8",
+    "cart": 11,
+    "amount": "50004.00",
+    "currency": "NPR",
+    "status": "pending",
+    "user": [
+      "Test"
+    ],
+    "created_at": "2025-11-17T04:38:49.285Z",
+    "modified_at": "2025-11-17T04:38:49.285Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 102,
+  "fields": {
+    "ref": "acf1ffb3-50e0-4ceb-9777-596a6c89ff7c",
+    "cart": 4,
+    "amount": "65504.00",
+    "currency": "NPR",
+    "status": "pending",
+    "user": [
+      "Test"
+    ],
+    "created_at": "2025-11-25T11:57:02.600Z",
+    "modified_at": "2025-11-25T11:57:02.600Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 103,
+  "fields": {
+    "ref": "c0d822bb-b4e1-45ea-8f9a-939af65fb337",
+    "cart": 4,
+    "amount": "304.00",
+    "currency": "NPR",
+    "status": "pending",
+    "user": [
+      "Test"
+    ],
+    "created_at": "2025-11-25T12:02:27.309Z",
+    "modified_at": "2025-11-25T12:02:27.309Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 104,
+  "fields": {
+    "ref": "ef58f551-c860-4e03-932b-464559c287a6",
+    "cart": 4,
+    "amount": "304.00",
+    "currency": "NPR",
+    "status": "pending",
+    "user": [
+      "Test"
+    ],
+    "created_at": "2025-11-25T12:03:32.016Z",
+    "modified_at": "2025-11-25T12:03:32.016Z"
+  }
+},
+{
+  "model": "shop_app.cart",
+  "pk": 1,
+  "fields": {
+    "cart_code": "wdaizcntqJ",
+    "user": null,
+    "paid": false,
+    "created_at": "2025-08-28T06:31:49.954Z",
+    "modified_at": "2025-08-28T06:31:49.954Z"
+  }
+},
+{
+  "model": "shop_app.cart",
+  "pk": 2,
+  "fields": {
+    "cart_code": "2kDHy5aOj2",
+    "user": null,
+    "paid": false,
+    "created_at": "2025-08-28T09:56:20.148Z",
+    "modified_at": "2025-08-28T09:56:20.148Z"
+  }
+},
+{
+  "model": "shop_app.cart",
+  "pk": 3,
+  "fields": {
+    "cart_code": "mXpRkpW3rW",
+    "user": null,
+    "paid": false,
+    "created_at": "2025-08-31T08:21:44.743Z",
+    "modified_at": "2025-08-31T08:21:44.743Z"
+  }
+},
+{
+  "model": "shop_app.cart",
+  "pk": 4,
+  "fields": {
+    "cart_code": "hp8Uf5Lfr6",
+    "user": null,
+    "paid": false,
+    "created_at": "2025-09-03T04:19:51.211Z",
+    "modified_at": "2025-09-03T04:19:51.211Z"
+  }
+},
+{
+  "model": "shop_app.cart",
+  "pk": 5,
+  "fields": {
+    "cart_code": "yyeFKBVCjo",
+    "user": null,
+    "paid": false,
+    "created_at": "2025-09-03T06:23:06.692Z",
+    "modified_at": "2025-09-03T06:23:06.692Z"
+  }
+},
+{
+  "model": "shop_app.cart",
+  "pk": 6,
+  "fields": {
+    "cart_code": "JYOpDbTTMZ",
+    "user": null,
+    "paid": false,
+    "created_at": "2025-09-03T13:52:09.892Z",
+    "modified_at": "2025-09-03T13:52:09.892Z"
+  }
+},
+{
+  "model": "shop_app.cart",
+  "pk": 7,
+  "fields": {
+    "cart_code": "0xQaoNtYRq",
+    "user": null,
+    "paid": false,
+    "created_at": "2025-10-29T03:14:10.028Z",
+    "modified_at": "2025-10-29T03:14:10.028Z"
+  }
+},
+{
+  "model": "shop_app.cart",
+  "pk": 8,
+  "fields": {
+    "cart_code": "dU0gdY35wO",
+    "user": null,
+    "paid": false,
+    "created_at": "2025-10-30T06:31:56.267Z",
+    "modified_at": "2025-10-30T06:31:56.267Z"
+  }
+},
+{
+  "model": "shop_app.cart",
+  "pk": 9,
+  "fields": {
+    "cart_code": "AtZW20SKuW",
+    "user": null,
+    "paid": false,
+    "created_at": "2025-11-01T13:13:06.082Z",
+    "modified_at": "2025-11-01T13:13:06.082Z"
+  }
+},
+{
+  "model": "shop_app.cart",
+  "pk": 10,
+  "fields": {
+    "cart_code": "WQWDwiZOwX",
+    "user": null,
+    "paid": false,
+    "created_at": "2025-11-01T14:53:18.859Z",
+    "modified_at": "2025-11-01T14:53:18.859Z"
+  }
+},
+{
+  "model": "shop_app.cart",
+  "pk": 11,
+  "fields": {
+    "cart_code": "oecIeO9tPh",
+    "user": null,
+    "paid": false,
+    "created_at": "2025-11-17T03:50:38.534Z",
+    "modified_at": "2025-11-17T03:50:38.534Z"
+  }
+},
+{
+  "model": "shop_app.cart",
+  "pk": 12,
+  "fields": {
+    "cart_code": "wK8REfjyBV",
+    "user": null,
+    "paid": false,
+    "created_at": "2026-03-10T14:24:20.726Z",
+    "modified_at": "2026-03-10T14:24:20.726Z"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 52,
+  "fields": {
+    "action_time": "2025-10-29T03:19:13.704Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "core",
+      "customuser"
+    ],
+    "object_id": "4",
+    "object_repr": "Test",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 53,
+  "fields": {
+    "action_time": "2025-10-30T08:12:50.483Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "pet"
+    ],
+    "object_id": "1",
+    "object_repr": "Pet object (1)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 54,
+  "fields": {
+    "action_time": "2025-10-30T08:13:13.548Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctor"
+    ],
+    "object_id": "1",
+    "object_repr": "Doctor object (1)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 55,
+  "fields": {
+    "action_time": "2025-10-30T08:14:51.846Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "treatment"
+    ],
+    "object_id": "1",
+    "object_repr": "Treatment object (1)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 56,
+  "fields": {
+    "action_time": "2025-10-30T08:15:20.076Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "appointment"
+    ],
+    "object_id": "1",
+    "object_repr": "Appointment object (1)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 57,
+  "fields": {
+    "action_time": "2025-10-31T12:32:26.416Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "appointment"
+    ],
+    "object_id": "1",
+    "object_repr": "Appointment object (1)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 58,
+  "fields": {
+    "action_time": "2025-10-31T12:32:31.409Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctor"
+    ],
+    "object_id": "1",
+    "object_repr": "Doctor object (1)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 59,
+  "fields": {
+    "action_time": "2025-10-31T12:32:36.640Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "pet"
+    ],
+    "object_id": "1",
+    "object_repr": "NoneDog",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 60,
+  "fields": {
+    "action_time": "2025-10-31T12:32:40.641Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "treatment"
+    ],
+    "object_id": "1",
+    "object_repr": "Treatment object (1)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 61,
+  "fields": {
+    "action_time": "2025-10-31T13:38:28.169Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "pet"
+    ],
+    "object_id": "1",
+    "object_repr": "Aakash Ojha (dog)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 62,
+  "fields": {
+    "action_time": "2025-10-31T13:38:37.388Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctor"
+    ],
+    "object_id": "1",
+    "object_repr": "Dr. sadfaf (vet)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 63,
+  "fields": {
+    "action_time": "2025-10-31T13:38:47.632Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "treatment"
+    ],
+    "object_id": "1",
+    "object_repr": "asdfsdf (checkup)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 64,
+  "fields": {
+    "action_time": "2025-10-31T13:38:51.197Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "appointment"
+    ],
+    "object_id": "1",
+    "object_repr": "Appointment for Aakash Ojha with Dr. sadfaf (scheduled)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 65,
+  "fields": {
+    "action_time": "2025-11-01T05:31:40.275Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctor"
+    ],
+    "object_id": "2",
+    "object_repr": "Dr. Aakash Ojha (vet)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 66,
+  "fields": {
+    "action_time": "2025-11-01T07:57:45.813Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "appointment"
+    ],
+    "object_id": "1",
+    "object_repr": "Appointment for Aakash Ojha with Dr. sadfaf (scheduled)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 67,
+  "fields": {
+    "action_time": "2025-11-01T07:57:53.106Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "pet"
+    ],
+    "object_id": "1",
+    "object_repr": "Aakash Ojha (dog)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 68,
+  "fields": {
+    "action_time": "2025-11-01T07:57:58.403Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "treatment"
+    ],
+    "object_id": "1",
+    "object_repr": "asdfsdf (checkup)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 69,
+  "fields": {
+    "action_time": "2025-11-01T08:54:38.072Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctor"
+    ],
+    "object_id": "4",
+    "object_repr": "Dr. Aakash Ojha (surgeon)",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 70,
+  "fields": {
+    "action_time": "2025-11-01T08:54:41.687Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctor"
+    ],
+    "object_id": "3",
+    "object_repr": "Dr. Aakash Ojha (surgeon)",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 71,
+  "fields": {
+    "action_time": "2025-11-01T08:54:45.358Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctor"
+    ],
+    "object_id": "2",
+    "object_repr": "Dr. Aakash Ojha (vet)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Is available\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 72,
+  "fields": {
+    "action_time": "2025-11-01T08:54:48.664Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctor"
+    ],
+    "object_id": "1",
+    "object_repr": "Dr. sadfaf (vet)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Is available\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 73,
+  "fields": {
+    "action_time": "2025-11-01T10:10:11.797Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctoravailability"
+    ],
+    "object_id": "1",
+    "object_repr": "Aakash Ojha - 2025-11-01 10:10:00-18:00:00",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 74,
+  "fields": {
+    "action_time": "2025-11-01T13:15:14.642Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "shop_app",
+      "product"
+    ],
+    "object_id": "14",
+    "object_repr": "Anish subedi",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 75,
+  "fields": {
+    "action_time": "2025-11-01T13:22:50.483Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "shop_app",
+      "product"
+    ],
+    "object_id": "14",
+    "object_repr": "Anish subedi",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 76,
+  "fields": {
+    "action_time": "2025-11-01T15:42:54.286Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctoravailability"
+    ],
+    "object_id": "1",
+    "object_repr": "Aakash Ojha - 2025-11-01 10:10:00-23:00:00",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"End time\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 77,
+  "fields": {
+    "action_time": "2025-11-01T15:42:57.317Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctoravailability"
+    ],
+    "object_id": "1",
+    "object_repr": "Aakash Ojha - 2025-11-01 10:10:00-23:00:00",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 78,
+  "fields": {
+    "action_time": "2025-11-01T15:43:07.725Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctoravailability"
+    ],
+    "object_id": "2",
+    "object_repr": "Aakash Ojha - 2025-11-01 05:01:00-23:43:00",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"End time\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 79,
+  "fields": {
+    "action_time": "2025-11-01T16:32:13.538Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctor"
+    ],
+    "object_id": "4",
+    "object_repr": "Dr. Aakash Ojha (surgeon)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 80,
+  "fields": {
+    "action_time": "2025-11-01T17:18:21.687Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctoravailability"
+    ],
+    "object_id": "2",
+    "object_repr": "Aakash Ojha - 2025-11-01 05:01:00-06:00:00",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"End time\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 81,
+  "fields": {
+    "action_time": "2025-11-01T17:19:15.437Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctoravailability"
+    ],
+    "object_id": "3",
+    "object_repr": "Aakash Ojha - 2025-11-02 10:10:00-23:00:00",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 82,
+  "fields": {
+    "action_time": "2025-11-01T17:58:09.857Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "pet"
+    ],
+    "object_id": "2",
+    "object_repr": "rocky (dog)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 83,
+  "fields": {
+    "action_time": "2025-11-02T01:29:02.992Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "appointment"
+    ],
+    "object_id": "1",
+    "object_repr": "Appointment for asdf with Dr. Aakash Ojha (scheduled)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 84,
+  "fields": {
+    "action_time": "2025-11-02T01:56:54.310Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctoravailability"
+    ],
+    "object_id": "3",
+    "object_repr": "Aakash Ojha - 10:10:00-16:00:00",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"End date\", \"End time\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 85,
+  "fields": {
+    "action_time": "2025-11-02T01:57:12.803Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctoravailability"
+    ],
+    "object_id": "2",
+    "object_repr": "Aakash Ojha - 01:57:08-18:00:00",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"End date\", \"Start time\", \"End time\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 86,
+  "fields": {
+    "action_time": "2025-11-02T01:57:22.069Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctoravailability"
+    ],
+    "object_id": "1",
+    "object_repr": "Aakash Ojha - 10:10:00-23:00:00",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"End date\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 87,
+  "fields": {
+    "action_time": "2025-11-02T02:33:36.685Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctoravailability"
+    ],
+    "object_id": "1",
+    "object_repr": "sadfaf - 10:10:00-23:00:00",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Doctor\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 88,
+  "fields": {
+    "action_time": "2025-11-02T02:48:55.994Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "pet"
+    ],
+    "object_id": "11",
+    "object_repr": "afsadf (dog)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 89,
+  "fields": {
+    "action_time": "2025-11-02T02:48:59.344Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "pet"
+    ],
+    "object_id": "10",
+    "object_repr": "afsadf (dog)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 90,
+  "fields": {
+    "action_time": "2025-11-02T02:49:02.248Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "pet"
+    ],
+    "object_id": "9",
+    "object_repr": "sadf (dog)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 91,
+  "fields": {
+    "action_time": "2025-11-02T02:49:05.673Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "pet"
+    ],
+    "object_id": "5",
+    "object_repr": "asdf (dog)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 92,
+  "fields": {
+    "action_time": "2025-11-02T02:49:09.170Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "pet"
+    ],
+    "object_id": "4",
+    "object_repr": "asdf (dog)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 93,
+  "fields": {
+    "action_time": "2025-11-02T02:49:14.123Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "pet"
+    ],
+    "object_id": "6",
+    "object_repr": "asdf (dog)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 94,
+  "fields": {
+    "action_time": "2025-11-02T02:49:19.837Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "pet"
+    ],
+    "object_id": "2",
+    "object_repr": "rocky (dog)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 95,
+  "fields": {
+    "action_time": "2025-11-02T02:49:23.212Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "pet"
+    ],
+    "object_id": "3",
+    "object_repr": "asdf (dog)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 96,
+  "fields": {
+    "action_time": "2025-11-02T02:49:26.601Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "pet"
+    ],
+    "object_id": "7",
+    "object_repr": "asdf (dog)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 97,
+  "fields": {
+    "action_time": "2025-11-02T02:49:30.190Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "pet"
+    ],
+    "object_id": "12",
+    "object_repr": "afsadf (dog)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 98,
+  "fields": {
+    "action_time": "2025-11-02T02:49:33.751Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "pet"
+    ],
+    "object_id": "8",
+    "object_repr": "dsfdasf (cat)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 99,
+  "fields": {
+    "action_time": "2025-11-02T02:50:21.912Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "appointment"
+    ],
+    "object_id": "2",
+    "object_repr": "Appointment for sdfsd with Dr. Aakash Ojha (scheduled)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 100,
+  "fields": {
+    "action_time": "2025-11-02T02:59:00.979Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctoravailability"
+    ],
+    "object_id": "3",
+    "object_repr": "Aakash Ojha - 2025-11-02 02:58:53-18:00:00",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Start time\", \"End time\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 101,
+  "fields": {
+    "action_time": "2025-11-02T02:59:16.228Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctoravailability"
+    ],
+    "object_id": "1",
+    "object_repr": "sadfaf - 2025-11-02 02:59:08-18:00:00",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Start time\", \"End time\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 102,
+  "fields": {
+    "action_time": "2025-11-02T02:59:23.780Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctoravailability"
+    ],
+    "object_id": "1",
+    "object_repr": "sadfaf - 2025-11-02 02:59:08-18:00:00",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 103,
+  "fields": {
+    "action_time": "2025-11-02T02:59:27.619Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctoravailability"
+    ],
+    "object_id": "3",
+    "object_repr": "Aakash Ojha - 2025-11-02 02:58:53-18:00:00",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 104,
+  "fields": {
+    "action_time": "2025-11-02T03:07:59.374Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctoravailability"
+    ],
+    "object_id": "3",
+    "object_repr": "Aakash Ojha - 2025-11-02 02:58:53-18:00:00",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 105,
+  "fields": {
+    "action_time": "2025-11-02T03:08:10.916Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctoravailability"
+    ],
+    "object_id": "1",
+    "object_repr": "sadfaf - 2025-11-02 06:00:00-18:00:00",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Start time\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 106,
+  "fields": {
+    "action_time": "2025-11-02T03:25:32.708Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctor"
+    ],
+    "object_id": "4",
+    "object_repr": "Dr. Aakash Ojha (surgeon)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 107,
+  "fields": {
+    "action_time": "2025-11-02T03:25:39.183Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctoravailability"
+    ],
+    "object_id": "1",
+    "object_repr": "sadfaf - 2025-11-02 06:00:00-18:00:00",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 108,
+  "fields": {
+    "action_time": "2025-11-02T03:25:43.952Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "appointment"
+    ],
+    "object_id": "3",
+    "object_repr": "Appointment for dfgsdf with Dr. sadfaf (scheduled)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 109,
+  "fields": {
+    "action_time": "2025-11-02T03:25:50.152Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctor"
+    ],
+    "object_id": "2",
+    "object_repr": "Dr. Aakash Ojha (vet)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 110,
+  "fields": {
+    "action_time": "2025-11-02T03:25:54.126Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctor"
+    ],
+    "object_id": "1",
+    "object_repr": "Dr. sadfaf (vet)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 111,
+  "fields": {
+    "action_time": "2025-11-02T03:25:57.971Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctor"
+    ],
+    "object_id": "3",
+    "object_repr": "Dr. Aakash Ojha (surgeon)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 112,
+  "fields": {
+    "action_time": "2025-11-02T03:26:02.434Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "pet"
+    ],
+    "object_id": "13",
+    "object_repr": "sdfsd (dog)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 113,
+  "fields": {
+    "action_time": "2025-11-02T03:26:05.998Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "pet"
+    ],
+    "object_id": "14",
+    "object_repr": "dfgsdf (dog)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 114,
+  "fields": {
+    "action_time": "2025-11-02T03:32:28.043Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctor"
+    ],
+    "object_id": "5",
+    "object_repr": "Dr. Sanjay Ghimire (vet)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 115,
+  "fields": {
+    "action_time": "2025-11-02T03:33:37.431Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctor"
+    ],
+    "object_id": "6",
+    "object_repr": "Dr. Abhijit Sapkota (vet)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 116,
+  "fields": {
+    "action_time": "2025-11-02T03:35:06.870Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctor"
+    ],
+    "object_id": "7",
+    "object_repr": "Dr. Prabesh Poudel (vet)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 117,
+  "fields": {
+    "action_time": "2025-11-02T03:36:04.227Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctor"
+    ],
+    "object_id": "8",
+    "object_repr": "Dr. Yubraj Poudel (assistant)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 118,
+  "fields": {
+    "action_time": "2025-11-02T03:36:16.465Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctor"
+    ],
+    "object_id": "7",
+    "object_repr": "Dr. Prabesh Poudel (vet)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 119,
+  "fields": {
+    "action_time": "2025-11-02T03:37:10.346Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctor"
+    ],
+    "object_id": "9",
+    "object_repr": "Dr. Mahesh Neupane (surgeon)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 120,
+  "fields": {
+    "action_time": "2025-11-02T03:38:09.042Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctor"
+    ],
+    "object_id": "10",
+    "object_repr": "Dr. Rupesh lamsal (vet)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 121,
+  "fields": {
+    "action_time": "2025-11-02T03:38:25.195Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctor"
+    ],
+    "object_id": "10",
+    "object_repr": "Dr. Rupesh lamsal (vet)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Specialty\", \"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 122,
+  "fields": {
+    "action_time": "2025-11-02T03:40:22.901Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctor"
+    ],
+    "object_id": "11",
+    "object_repr": "Dr. Anish Chaudary (vet)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 123,
+  "fields": {
+    "action_time": "2025-11-02T03:40:42.100Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctor"
+    ],
+    "object_id": "11",
+    "object_repr": "Dr. Anisha Chaudary (vet)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 124,
+  "fields": {
+    "action_time": "2025-11-02T03:41:52.308Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctoravailability"
+    ],
+    "object_id": "4",
+    "object_repr": "Sanjay Ghimire - 2025-11-02 10:00:00-18:00:00",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 125,
+  "fields": {
+    "action_time": "2025-11-02T03:45:48.823Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctoravailability"
+    ],
+    "object_id": "4",
+    "object_repr": "Sanjay Ghimire - 2025-11-02 10:00:00-18:00:00",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Is booked\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 126,
+  "fields": {
+    "action_time": "2025-11-02T03:52:32.094Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctoravailability"
+    ],
+    "object_id": "4",
+    "object_repr": "Sanjay Ghimire - 2025-11-02 10:00:00-18:00:00",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Is booked\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 127,
+  "fields": {
+    "action_time": "2025-11-02T03:59:18.854Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctoravailability"
+    ],
+    "object_id": "4",
+    "object_repr": "Sanjay Ghimire - 2025-11-02 10:00:00-18:00:00",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Is booked\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 128,
+  "fields": {
+    "action_time": "2025-11-02T03:59:54.067Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctoravailability"
+    ],
+    "object_id": "4",
+    "object_repr": "Sanjay Ghimire - 2025-11-02 10:00:00-18:00:00",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 129,
+  "fields": {
+    "action_time": "2025-11-02T04:01:15.207Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "appointment"
+    ],
+    "object_id": "6",
+    "object_repr": "Appointment for adsf with Dr. Sanjay Ghimire (scheduled)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 130,
+  "fields": {
+    "action_time": "2025-11-02T04:01:19.849Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "appointment"
+    ],
+    "object_id": "5",
+    "object_repr": "Appointment for 1223 with Dr. Sanjay Ghimire (scheduled)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 131,
+  "fields": {
+    "action_time": "2025-11-02T04:01:28.466Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "appointment"
+    ],
+    "object_id": "4",
+    "object_repr": "Appointment for ayhgfd with Dr. Sanjay Ghimire (scheduled)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 132,
+  "fields": {
+    "action_time": "2025-11-02T04:10:40.161Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctoravailability"
+    ],
+    "object_id": "4",
+    "object_repr": "Sanjay Ghimire - 2025-11-02 10:00:00-18:00:00",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 133,
+  "fields": {
+    "action_time": "2025-11-02T04:11:05.531Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "appointment"
+    ],
+    "object_id": "7",
+    "object_repr": "Appointment for sfdaa with Dr. Sanjay Ghimire (scheduled)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 134,
+  "fields": {
+    "action_time": "2025-11-02T04:11:35.737Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctoravailability"
+    ],
+    "object_id": "5",
+    "object_repr": "Sanjay Ghimire - 2025-11-02 10:10:00-18:00:00",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 135,
+  "fields": {
+    "action_time": "2025-11-02T04:23:12.972Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctoravailability"
+    ],
+    "object_id": "5",
+    "object_repr": "Sanjay Ghimire - 2025-11-02 10:10:00-18:00:00",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 136,
+  "fields": {
+    "action_time": "2025-11-02T04:29:36.629Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctoravailability"
+    ],
+    "object_id": "6",
+    "object_repr": "Sanjay Ghimire - 2025-11-02 10:10:00-18:00:00",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 137,
+  "fields": {
+    "action_time": "2025-11-02T04:30:26.239Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "appointment"
+    ],
+    "object_id": "10",
+    "object_repr": "Appointment for rtr with Dr. Sanjay Ghimire (scheduled)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 138,
+  "fields": {
+    "action_time": "2025-11-02T04:30:30.030Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "appointment"
+    ],
+    "object_id": "9",
+    "object_repr": "Appointment for hjkg with Dr. Sanjay Ghimire (scheduled)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 139,
+  "fields": {
+    "action_time": "2025-11-02T04:30:34.883Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "appointment"
+    ],
+    "object_id": "8",
+    "object_repr": "Appointment for Rocky with Dr. Sanjay Ghimire (scheduled)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 140,
+  "fields": {
+    "action_time": "2025-11-02T04:43:45.673Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "appointment"
+    ],
+    "object_id": "11",
+    "object_repr": "Appointment for sadf with Dr. Sanjay Ghimire (completed)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 141,
+  "fields": {
+    "action_time": "2025-11-02T06:01:16.911Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctoravailability"
+    ],
+    "object_id": "6",
+    "object_repr": "Sanjay Ghimire - 2025-11-02 10:10:00-18:00:00",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Is booked\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 142,
+  "fields": {
+    "action_time": "2025-11-02T06:01:36.285Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctoravailability"
+    ],
+    "object_id": "7",
+    "object_repr": "Abhijit Sapkota - 2025-11-02 10:10:00-18:00:00",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 143,
+  "fields": {
+    "action_time": "2025-11-02T06:01:51.072Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctoravailability"
+    ],
+    "object_id": "8",
+    "object_repr": "Prabesh Poudel - 2025-11-02 10:10:00-23:00:00",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 144,
+  "fields": {
+    "action_time": "2025-11-02T06:02:09.733Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctoravailability"
+    ],
+    "object_id": "9",
+    "object_repr": "Yubraj Poudel - 2025-11-02 10:10:00-23:00:00",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 145,
+  "fields": {
+    "action_time": "2025-11-02T06:02:25.269Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctoravailability"
+    ],
+    "object_id": "10",
+    "object_repr": "Mahesh Neupane - 2025-11-02 06:00:00-23:00:00",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 146,
+  "fields": {
+    "action_time": "2025-11-02T06:02:41.526Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctoravailability"
+    ],
+    "object_id": "11",
+    "object_repr": "Rupesh lamsal - 2025-11-02 10:10:00-23:00:00",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 147,
+  "fields": {
+    "action_time": "2025-11-02T06:03:01.170Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctoravailability"
+    ],
+    "object_id": "12",
+    "object_repr": "Anisha Chaudary - 2025-11-02 10:10:00-23:00:00",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 148,
+  "fields": {
+    "action_time": "2025-11-02T07:04:35.249Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "core",
+      "customuser"
+    ],
+    "object_id": "6",
+    "object_repr": "",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 149,
+  "fields": {
+    "action_time": "2025-11-02T07:06:30.888Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "core",
+      "customuser"
+    ],
+    "object_id": "6",
+    "object_repr": "Test",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Username\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 150,
+  "fields": {
+    "action_time": "2025-11-02T07:07:46.817Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "appointment"
+    ],
+    "object_id": "13",
+    "object_repr": "Appointment for Aa with Dr. Prabesh Poudel (scheduled)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 151,
+  "fields": {
+    "action_time": "2025-11-02T07:07:53.476Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "appointment"
+    ],
+    "object_id": "12",
+    "object_repr": "Appointment for Rocky with Dr. Abhijit Sapkota (scheduled)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 152,
+  "fields": {
+    "action_time": "2025-11-02T07:08:11.515Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "pet"
+    ],
+    "object_id": "24",
+    "object_repr": "Aa (dog)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 153,
+  "fields": {
+    "action_time": "2025-11-02T07:08:16.500Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "pet"
+    ],
+    "object_id": "22",
+    "object_repr": "sadf (dog)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 154,
+  "fields": {
+    "action_time": "2025-11-02T07:08:21.438Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "pet"
+    ],
+    "object_id": "18",
+    "object_repr": "sfdaa (dog)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 155,
+  "fields": {
+    "action_time": "2025-11-02T07:08:27.470Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "pet"
+    ],
+    "object_id": "19",
+    "object_repr": "Rocky (dog)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 156,
+  "fields": {
+    "action_time": "2025-11-02T07:08:32.836Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "pet"
+    ],
+    "object_id": "20",
+    "object_repr": "hjkg (dog)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 157,
+  "fields": {
+    "action_time": "2025-11-02T07:08:38.499Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "pet"
+    ],
+    "object_id": "17",
+    "object_repr": "adsf (dog)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 158,
+  "fields": {
+    "action_time": "2025-11-02T07:08:43.953Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "pet"
+    ],
+    "object_id": "16",
+    "object_repr": "1223 (dog)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 159,
+  "fields": {
+    "action_time": "2025-11-02T08:40:00.502Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "shop_app",
+      "product"
+    ],
+    "object_id": "15",
+    "object_repr": "Belt",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 160,
+  "fields": {
+    "action_time": "2025-11-02T08:43:01.112Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "shop_app",
+      "product"
+    ],
+    "object_id": "16",
+    "object_repr": "Cat Food",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 161,
+  "fields": {
+    "action_time": "2025-11-02T08:45:17.686Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "shop_app",
+      "product"
+    ],
+    "object_id": "17",
+    "object_repr": "Dog Food",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 162,
+  "fields": {
+    "action_time": "2025-11-02T08:45:49.827Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "shop_app",
+      "product"
+    ],
+    "object_id": "11",
+    "object_repr": "Husky",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 163,
+  "fields": {
+    "action_time": "2025-11-02T08:46:32.022Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "shop_app",
+      "product"
+    ],
+    "object_id": "12",
+    "object_repr": "Brown",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 164,
+  "fields": {
+    "action_time": "2025-11-02T08:48:04.850Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "shop_app",
+      "product"
+    ],
+    "object_id": "18",
+    "object_repr": "Dog Toy",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 165,
+  "fields": {
+    "action_time": "2025-11-02T08:49:13.326Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "shop_app",
+      "product"
+    ],
+    "object_id": "13",
+    "object_repr": "White",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 166,
+  "fields": {
+    "action_time": "2025-11-17T03:34:50.973Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctor"
+    ],
+    "object_id": "11",
+    "object_repr": "Dr. Anisha Chaudary (vet)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Specialty\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 167,
+  "fields": {
+    "action_time": "2025-11-17T03:34:58.050Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctor"
+    ],
+    "object_id": "10",
+    "object_repr": "Dr. Rupesh lamsal (vet)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Specialty\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 168,
+  "fields": {
+    "action_time": "2025-11-17T03:35:02.713Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctor"
+    ],
+    "object_id": "9",
+    "object_repr": "Dr. Mahesh Neupane (surgeon)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Specialty\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 169,
+  "fields": {
+    "action_time": "2025-11-17T03:35:11.813Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctor"
+    ],
+    "object_id": "8",
+    "object_repr": "Dr. Yubraj Poudel (assistant)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Specialty\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 170,
+  "fields": {
+    "action_time": "2025-11-17T03:35:15.785Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctor"
+    ],
+    "object_id": "7",
+    "object_repr": "Dr. Prabesh Poudel (vet)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Specialty\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 171,
+  "fields": {
+    "action_time": "2025-11-17T03:35:19.330Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctor"
+    ],
+    "object_id": "7",
+    "object_repr": "Dr. Prabesh Poudel (vet)",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 172,
+  "fields": {
+    "action_time": "2025-11-17T03:35:22.991Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctor"
+    ],
+    "object_id": "6",
+    "object_repr": "Dr. Abhijit Sapkota (vet)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Specialty\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 173,
+  "fields": {
+    "action_time": "2025-11-17T03:35:27.191Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "appointment",
+      "doctor"
+    ],
+    "object_id": "5",
+    "object_repr": "Dr. Sanjay Ghimire (vet)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Specialty\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 174,
+  "fields": {
+    "action_time": "2025-11-17T03:42:43.575Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "core",
+      "customuser"
+    ],
+    "object_id": "6",
+    "object_repr": "Test",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"password\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 175,
+  "fields": {
+    "action_time": "2025-11-17T03:48:06.841Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "shop_app",
+      "product"
+    ],
+    "object_id": "9",
+    "object_repr": "Golden Retriever",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 176,
+  "fields": {
+    "action_time": "2025-11-17T03:57:17.862Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "shop_app",
+      "product"
+    ],
+    "object_id": "8",
+    "object_repr": "BabyDog",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 177,
+  "fields": {
+    "action_time": "2025-11-17T03:57:29.730Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "shop_app",
+      "product"
+    ],
+    "object_id": "16",
+    "object_repr": "Cat Food",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 178,
+  "fields": {
+    "action_time": "2025-11-17T03:57:36.109Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "shop_app",
+      "product"
+    ],
+    "object_id": "18",
+    "object_repr": "Dog Toy",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 179,
+  "fields": {
+    "action_time": "2025-11-17T03:57:44.408Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "shop_app",
+      "product"
+    ],
+    "object_id": "9",
+    "object_repr": "Golden Retriever",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 180,
+  "fields": {
+    "action_time": "2025-11-17T03:58:03.517Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "shop_app",
+      "product"
+    ],
+    "object_id": "17",
+    "object_repr": "Dog Food",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 181,
+  "fields": {
+    "action_time": "2025-11-17T03:58:12.035Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "shop_app",
+      "product"
+    ],
+    "object_id": "10",
+    "object_repr": "German",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 182,
+  "fields": {
+    "action_time": "2025-11-17T03:58:19.099Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "shop_app",
+      "product"
+    ],
+    "object_id": "2",
+    "object_repr": "Happy",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+  }
+}
+]

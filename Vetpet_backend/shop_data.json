@@ -1,0 +1,1194 @@
+[
+{
+  "model": "shop_app.product",
+  "pk": 2,
+  "fields": {
+    "name": "Happy",
+    "slug": "image",
+    "image": "img/imageDog.jpg",
+    "description": "",
+    "price": "10000.00",
+    "category": "Accessories"
+  }
+},
+{
+  "model": "shop_app.product",
+  "pk": 8,
+  "fields": {
+    "name": "BabyDog",
+    "slug": "BabyDog",
+    "image": "img/BabyDog.jpg",
+    "description": "Small ,White in color ,month only",
+    "price": "5000.00",
+    "category": "Accessories"
+  }
+},
+{
+  "model": "shop_app.product",
+  "pk": 9,
+  "fields": {
+    "name": "Golden Retriever",
+    "slug": "GoldenRetriever",
+    "image": "img/GoldenRetriever.jpg",
+    "description": "A loving and energetic Golden Retriever with a sweet temperament. Great with families and ideal for both companionship and active lifestyles. Loyal, intelligent, and affectionate, making them one of the most popular family pets.",
+    "price": "50000.00",
+    "category": "Dog"
+  }
+},
+{
+  "model": "shop_app.product",
+  "pk": 10,
+  "fields": {
+    "name": "German",
+    "slug": "German",
+    "image": "img/GermanDog.jpg",
+    "description": "German shearpard",
+    "price": "100000.00",
+    "category": null
+  }
+},
+{
+  "model": "shop_app.product",
+  "pk": 15,
+  "fields": {
+    "name": "Belt",
+    "slug": "belt",
+    "image": "img/dog_belt.jpg",
+    "description": "Keep your small furry friend safe and comfortable with this durable dog belt. Designed for small breeds, it features an adjustable strap for a snug fit, soft padding for comfort, and a sturdy buckle for security during walks or travel.",
+    "price": "300.00",
+    "category": "Accessories"
+  }
+},
+{
+  "model": "shop_app.product",
+  "pk": 16,
+  "fields": {
+    "name": "Cat Food",
+    "slug": "catfood",
+    "image": "img/catFood.webp",
+    "description": "Give your feline friend the nutrition they deserve with our Premium Cat Food-specially formulated to support overall health, energy, and vitality. Made with high-quality ingredients and essential nutrients, this food provides a perfectly balanced diet that satisfies even the pickiest eaters.",
+    "price": "200.00",
+    "category": "Petfood"
+  }
+},
+{
+  "model": "shop_app.product",
+  "pk": 17,
+  "fields": {
+    "name": "Dog Food",
+    "slug": "dogfood",
+    "image": "img/Dog_food_in_a_bowl.jpg",
+    "description": "Fresh meals made from meat, rice, and vegetables.",
+    "price": "250.00",
+    "category": "Petfood"
+  }
+},
+{
+  "model": "shop_app.product",
+  "pk": 18,
+  "fields": {
+    "name": "Dog Toy",
+    "slug": "toy",
+    "image": "img/Puppy-chewing-dog-toy_resized.jpg",
+    "description": "Soft and comforting, ideal for light play or cuddling",
+    "price": "3000.00",
+    "category": "Accessories"
+  }
+},
+{
+  "model": "shop_app.cart",
+  "pk": 1,
+  "fields": {
+    "cart_code": "wdaizcntqJ",
+    "user": null,
+    "paid": false,
+    "created_at": "2025-08-28T06:31:49.954Z",
+    "modified_at": "2025-08-28T06:31:49.954Z"
+  }
+},
+{
+  "model": "shop_app.cart",
+  "pk": 2,
+  "fields": {
+    "cart_code": "2kDHy5aOj2",
+    "user": null,
+    "paid": false,
+    "created_at": "2025-08-28T09:56:20.148Z",
+    "modified_at": "2025-08-28T09:56:20.148Z"
+  }
+},
+{
+  "model": "shop_app.cart",
+  "pk": 3,
+  "fields": {
+    "cart_code": "mXpRkpW3rW",
+    "user": null,
+    "paid": false,
+    "created_at": "2025-08-31T08:21:44.743Z",
+    "modified_at": "2025-08-31T08:21:44.743Z"
+  }
+},
+{
+  "model": "shop_app.cart",
+  "pk": 4,
+  "fields": {
+    "cart_code": "hp8Uf5Lfr6",
+    "user": null,
+    "paid": false,
+    "created_at": "2025-09-03T04:19:51.211Z",
+    "modified_at": "2025-09-03T04:19:51.211Z"
+  }
+},
+{
+  "model": "shop_app.cart",
+  "pk": 5,
+  "fields": {
+    "cart_code": "yyeFKBVCjo",
+    "user": null,
+    "paid": false,
+    "created_at": "2025-09-03T06:23:06.692Z",
+    "modified_at": "2025-09-03T06:23:06.692Z"
+  }
+},
+{
+  "model": "shop_app.cart",
+  "pk": 6,
+  "fields": {
+    "cart_code": "JYOpDbTTMZ",
+    "user": null,
+    "paid": false,
+    "created_at": "2025-09-03T13:52:09.892Z",
+    "modified_at": "2025-09-03T13:52:09.892Z"
+  }
+},
+{
+  "model": "shop_app.cart",
+  "pk": 7,
+  "fields": {
+    "cart_code": "0xQaoNtYRq",
+    "user": null,
+    "paid": false,
+    "created_at": "2025-10-29T03:14:10.028Z",
+    "modified_at": "2025-10-29T03:14:10.028Z"
+  }
+},
+{
+  "model": "shop_app.cart",
+  "pk": 8,
+  "fields": {
+    "cart_code": "dU0gdY35wO",
+    "user": null,
+    "paid": false,
+    "created_at": "2025-10-30T06:31:56.267Z",
+    "modified_at": "2025-10-30T06:31:56.267Z"
+  }
+},
+{
+  "model": "shop_app.cart",
+  "pk": 9,
+  "fields": {
+    "cart_code": "AtZW20SKuW",
+    "user": null,
+    "paid": false,
+    "created_at": "2025-11-01T13:13:06.082Z",
+    "modified_at": "2025-11-01T13:13:06.082Z"
+  }
+},
+{
+  "model": "shop_app.cart",
+  "pk": 10,
+  "fields": {
+    "cart_code": "WQWDwiZOwX",
+    "user": null,
+    "paid": false,
+    "created_at": "2025-11-01T14:53:18.859Z",
+    "modified_at": "2025-11-01T14:53:18.859Z"
+  }
+},
+{
+  "model": "shop_app.cart",
+  "pk": 11,
+  "fields": {
+    "cart_code": "oecIeO9tPh",
+    "user": null,
+    "paid": false,
+    "created_at": "2025-11-17T03:50:38.534Z",
+    "modified_at": "2025-11-17T03:50:38.534Z"
+  }
+},
+{
+  "model": "shop_app.cart",
+  "pk": 12,
+  "fields": {
+    "cart_code": "wK8REfjyBV",
+    "user": null,
+    "paid": false,
+    "created_at": "2026-03-10T14:24:20.726Z",
+    "modified_at": "2026-03-10T14:24:20.726Z"
+  }
+},
+{
+  "model": "shop_app.cartitem",
+  "pk": 11,
+  "fields": {
+    "cart": 1,
+    "product": 2,
+    "quantity": 1
+  }
+},
+{
+  "model": "shop_app.cartitem",
+  "pk": 35,
+  "fields": {
+    "cart": 5,
+    "product": 9,
+    "quantity": 2
+  }
+},
+{
+  "model": "shop_app.cartitem",
+  "pk": 54,
+  "fields": {
+    "cart": 10,
+    "product": 8,
+    "quantity": 1
+  }
+},
+{
+  "model": "shop_app.cartitem",
+  "pk": 57,
+  "fields": {
+    "cart": 4,
+    "product": 15,
+    "quantity": 1
+  }
+},
+{
+  "model": "shop_app.cartitem",
+  "pk": 59,
+  "fields": {
+    "cart": 11,
+    "product": 9,
+    "quantity": 1
+  }
+},
+{
+  "model": "shop_app.cartitem",
+  "pk": 61,
+  "fields": {
+    "cart": 12,
+    "product": 8,
+    "quantity": 1
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 40,
+  "fields": {
+    "ref": "TXN-000040",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T03:19:55.425Z",
+    "modified_at": "2025-11-01T14:07:16.687Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 41,
+  "fields": {
+    "ref": "TXN-000041",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T03:19:58.194Z",
+    "modified_at": "2025-11-01T14:07:16.693Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 42,
+  "fields": {
+    "ref": "TXN-000042",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T03:19:58.368Z",
+    "modified_at": "2025-11-01T14:07:16.696Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 43,
+  "fields": {
+    "ref": "TXN-000043",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T03:19:59.633Z",
+    "modified_at": "2025-11-01T14:07:16.699Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 44,
+  "fields": {
+    "ref": "TXN-000044",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T03:19:59.832Z",
+    "modified_at": "2025-11-01T14:07:16.701Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 45,
+  "fields": {
+    "ref": "TXN-000045",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T03:19:59.978Z",
+    "modified_at": "2025-11-01T14:07:16.705Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 46,
+  "fields": {
+    "ref": "TXN-000046",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T03:20:01.164Z",
+    "modified_at": "2025-11-01T14:07:16.709Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 47,
+  "fields": {
+    "ref": "TXN-000047",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T03:20:01.330Z",
+    "modified_at": "2025-11-01T14:07:16.711Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 48,
+  "fields": {
+    "ref": "TXN-000048",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T03:20:01.490Z",
+    "modified_at": "2025-11-01T14:07:16.713Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 49,
+  "fields": {
+    "ref": "TXN-000049",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T03:20:01.673Z",
+    "modified_at": "2025-11-01T14:07:16.715Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 50,
+  "fields": {
+    "ref": "TXN-000050",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T03:20:02.698Z",
+    "modified_at": "2025-11-01T14:07:16.717Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 51,
+  "fields": {
+    "ref": "TXN-000051",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T03:20:02.868Z",
+    "modified_at": "2025-11-01T14:07:16.719Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 52,
+  "fields": {
+    "ref": "TXN-000052",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T03:20:03.035Z",
+    "modified_at": "2025-11-01T14:07:16.721Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 53,
+  "fields": {
+    "ref": "TXN-000053",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T03:20:03.208Z",
+    "modified_at": "2025-11-01T14:07:16.722Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 54,
+  "fields": {
+    "ref": "TXN-000054",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T03:20:04.963Z",
+    "modified_at": "2025-11-01T14:07:16.725Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 55,
+  "fields": {
+    "ref": "TXN-000055",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T03:20:05.491Z",
+    "modified_at": "2025-11-01T14:07:16.726Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 56,
+  "fields": {
+    "ref": "TXN-000056",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T03:20:07.403Z",
+    "modified_at": "2025-11-01T14:07:16.728Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 57,
+  "fields": {
+    "ref": "TXN-000057",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T03:20:07.586Z",
+    "modified_at": "2025-11-01T14:07:16.730Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 58,
+  "fields": {
+    "ref": "TXN-000058",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T03:20:07.937Z",
+    "modified_at": "2025-11-01T14:07:16.732Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 59,
+  "fields": {
+    "ref": "TXN-000059",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T03:20:08.125Z",
+    "modified_at": "2025-11-01T14:07:16.733Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 60,
+  "fields": {
+    "ref": "TXN-000060",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T03:20:08.306Z",
+    "modified_at": "2025-11-01T14:07:16.735Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 61,
+  "fields": {
+    "ref": "TXN-000061",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T03:20:09.399Z",
+    "modified_at": "2025-11-01T14:07:16.737Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 62,
+  "fields": {
+    "ref": "TXN-000062",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T03:20:09.595Z",
+    "modified_at": "2025-11-01T14:07:16.739Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 63,
+  "fields": {
+    "ref": "TXN-000063",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T03:20:09.769Z",
+    "modified_at": "2025-11-01T14:07:16.741Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 64,
+  "fields": {
+    "ref": "TXN-000064",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T03:20:09.943Z",
+    "modified_at": "2025-11-01T14:07:16.742Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 65,
+  "fields": {
+    "ref": "TXN-000065",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T03:20:10.119Z",
+    "modified_at": "2025-11-01T14:07:16.744Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 66,
+  "fields": {
+    "ref": "TXN-000066",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T03:20:10.289Z",
+    "modified_at": "2025-11-01T14:07:16.746Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 67,
+  "fields": {
+    "ref": "TXN-000067",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T03:20:10.465Z",
+    "modified_at": "2025-11-01T14:07:16.748Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 68,
+  "fields": {
+    "ref": "TXN-000068",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T03:20:10.640Z",
+    "modified_at": "2025-11-01T14:07:16.750Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 69,
+  "fields": {
+    "ref": "TXN-000069",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T03:20:10.842Z",
+    "modified_at": "2025-11-01T14:07:16.752Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 70,
+  "fields": {
+    "ref": "TXN-000070",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T03:20:11.033Z",
+    "modified_at": "2025-11-01T14:07:16.753Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 71,
+  "fields": {
+    "ref": "TXN-000071",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T03:20:12.371Z",
+    "modified_at": "2025-11-01T14:07:16.755Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 72,
+  "fields": {
+    "ref": "TXN-000072",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T03:20:12.539Z",
+    "modified_at": "2025-11-01T14:07:16.757Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 73,
+  "fields": {
+    "ref": "TXN-000073",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T03:20:12.721Z",
+    "modified_at": "2025-11-01T14:07:16.759Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 74,
+  "fields": {
+    "ref": "TXN-000074",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T03:20:12.888Z",
+    "modified_at": "2025-11-01T14:07:16.761Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 75,
+  "fields": {
+    "ref": "TXN-000075",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T03:20:13.072Z",
+    "modified_at": "2025-11-01T14:07:16.762Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 76,
+  "fields": {
+    "ref": "TXN-000076",
+    "cart": 7,
+    "amount": "2.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T03:20:15.663Z",
+    "modified_at": "2025-11-01T14:07:16.764Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 77,
+  "fields": {
+    "ref": "TXN-000077",
+    "cart": 4,
+    "amount": "3.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T06:54:20.728Z",
+    "modified_at": "2025-11-01T14:07:16.766Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 78,
+  "fields": {
+    "ref": "TXN-000078",
+    "cart": 4,
+    "amount": "3.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T06:54:21.885Z",
+    "modified_at": "2025-11-01T14:07:16.768Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 79,
+  "fields": {
+    "ref": "TXN-000079",
+    "cart": 4,
+    "amount": "3.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T06:54:22.094Z",
+    "modified_at": "2025-11-01T14:07:16.770Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 80,
+  "fields": {
+    "ref": "TXN-000080",
+    "cart": 4,
+    "amount": "3.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T06:54:22.268Z",
+    "modified_at": "2025-11-01T14:07:16.771Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 81,
+  "fields": {
+    "ref": "TXN-000081",
+    "cart": 4,
+    "amount": "3.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T06:54:22.484Z",
+    "modified_at": "2025-11-01T14:07:16.773Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 82,
+  "fields": {
+    "ref": "TXN-000082",
+    "cart": 4,
+    "amount": "3.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T06:54:22.707Z",
+    "modified_at": "2025-11-01T14:07:16.775Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 83,
+  "fields": {
+    "ref": "TXN-000083",
+    "cart": 4,
+    "amount": "3.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T06:54:23.193Z",
+    "modified_at": "2025-11-01T14:07:16.777Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 84,
+  "fields": {
+    "ref": "TXN-000084",
+    "cart": 4,
+    "amount": "3.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T06:54:23.397Z",
+    "modified_at": "2025-11-01T14:07:16.779Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 85,
+  "fields": {
+    "ref": "TXN-000085",
+    "cart": 4,
+    "amount": "3.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T06:54:28.437Z",
+    "modified_at": "2025-11-01T14:07:16.781Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 86,
+  "fields": {
+    "ref": "TXN-000086",
+    "cart": 4,
+    "amount": "3.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-29T06:54:28.650Z",
+    "modified_at": "2025-11-01T14:07:16.783Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 87,
+  "fields": {
+    "ref": "TXN-000087",
+    "cart": 8,
+    "amount": "1.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-30T06:33:02.622Z",
+    "modified_at": "2025-11-01T14:07:16.784Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 88,
+  "fields": {
+    "ref": "TXN-000088",
+    "cart": 8,
+    "amount": "1.00",
+    "currency": "NPR",
+    "status": "PENDING",
+    "user": 5,
+    "created_at": "2025-10-30T06:33:25.822Z",
+    "modified_at": "2025-11-01T14:07:16.786Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 89,
+  "fields": {
+    "ref": "f3661701-9b45-428a-a613-3c0c64fa7ed5",
+    "cart": 9,
+    "amount": "7.10",
+    "currency": "NPR",
+    "status": "pending",
+    "user": 5,
+    "created_at": "2025-11-01T13:17:46.922Z",
+    "modified_at": "2025-11-01T13:17:46.922Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 90,
+  "fields": {
+    "ref": "89a0e488-7aca-42e9-a1ba-8129eb0f2435",
+    "cart": 10,
+    "amount": "5.00",
+    "currency": "NPR",
+    "status": "pending",
+    "user": 5,
+    "created_at": "2025-11-01T14:53:33.528Z",
+    "modified_at": "2025-11-01T14:53:33.528Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 91,
+  "fields": {
+    "ref": "35d7d963-98a0-4ff2-90c1-b8cc6bc672fc",
+    "cart": 8,
+    "amount": "5.00",
+    "currency": "NPR",
+    "status": "pending",
+    "user": 5,
+    "created_at": "2025-11-02T05:23:34.098Z",
+    "modified_at": "2025-11-02T05:23:34.098Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 92,
+  "fields": {
+    "ref": "5c4e56ce-5703-40c2-bec1-ad8cadd497e2",
+    "cart": 8,
+    "amount": "5.00",
+    "currency": "NPR",
+    "status": "pending",
+    "user": 5,
+    "created_at": "2025-11-02T06:10:03.069Z",
+    "modified_at": "2025-11-02T06:10:03.069Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 93,
+  "fields": {
+    "ref": "1e0f398e-3df2-497e-951c-6b7f5f543519",
+    "cart": 4,
+    "amount": "6.00",
+    "currency": "NPR",
+    "status": "pending",
+    "user": 5,
+    "created_at": "2025-11-02T06:52:17.639Z",
+    "modified_at": "2025-11-02T06:52:17.639Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 94,
+  "fields": {
+    "ref": "bee50ef4-34cf-4677-95c8-12c27efe39c7",
+    "cart": 4,
+    "amount": "7.00",
+    "currency": "NPR",
+    "status": "pending",
+    "user": 5,
+    "created_at": "2025-11-02T08:30:55.939Z",
+    "modified_at": "2025-11-02T08:30:55.939Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 95,
+  "fields": {
+    "ref": "2990797d-d46f-4beb-95fb-d981508ccb63",
+    "cart": 4,
+    "amount": "326.00",
+    "currency": "NPR",
+    "status": "pending",
+    "user": 5,
+    "created_at": "2025-11-02T10:29:18.394Z",
+    "modified_at": "2025-11-02T10:29:18.394Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 96,
+  "fields": {
+    "ref": "cc510a04-cef3-4170-9716-7234d617f39b",
+    "cart": 4,
+    "amount": "326.00",
+    "currency": "NPR",
+    "status": "pending",
+    "user": 5,
+    "created_at": "2025-11-02T10:29:47.173Z",
+    "modified_at": "2025-11-02T10:29:47.174Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 97,
+  "fields": {
+    "ref": "e5c13d84-661e-4219-a49c-49cabb0a824a",
+    "cart": 4,
+    "amount": "326.00",
+    "currency": "NPR",
+    "status": "pending",
+    "user": 5,
+    "created_at": "2025-11-02T10:30:16.465Z",
+    "modified_at": "2025-11-02T10:30:16.465Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 98,
+  "fields": {
+    "ref": "55aecd51-bfb5-4551-82fb-cb5fde0bb512",
+    "cart": 4,
+    "amount": "326.00",
+    "currency": "NPR",
+    "status": "pending",
+    "user": 5,
+    "created_at": "2025-11-02T10:30:16.683Z",
+    "modified_at": "2025-11-02T10:30:16.683Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 99,
+  "fields": {
+    "ref": "3f22c395-a9c6-4621-9ddb-c374f22950a1",
+    "cart": 11,
+    "amount": "50004.00",
+    "currency": "NPR",
+    "status": "pending",
+    "user": 6,
+    "created_at": "2025-11-17T04:36:43.676Z",
+    "modified_at": "2025-11-17T04:36:43.676Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 100,
+  "fields": {
+    "ref": "f3c01a3f-9f66-40bb-9834-6ce102946024",
+    "cart": 11,
+    "amount": "50004.00",
+    "currency": "NPR",
+    "status": "pending",
+    "user": 6,
+    "created_at": "2025-11-17T04:37:06.024Z",
+    "modified_at": "2025-11-17T04:37:06.024Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 101,
+  "fields": {
+    "ref": "cae21006-ddc2-4dae-8a9c-724a822686e8",
+    "cart": 11,
+    "amount": "50004.00",
+    "currency": "NPR",
+    "status": "pending",
+    "user": 6,
+    "created_at": "2025-11-17T04:38:49.285Z",
+    "modified_at": "2025-11-17T04:38:49.285Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 102,
+  "fields": {
+    "ref": "acf1ffb3-50e0-4ceb-9777-596a6c89ff7c",
+    "cart": 4,
+    "amount": "65504.00",
+    "currency": "NPR",
+    "status": "pending",
+    "user": 6,
+    "created_at": "2025-11-25T11:57:02.600Z",
+    "modified_at": "2025-11-25T11:57:02.600Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 103,
+  "fields": {
+    "ref": "c0d822bb-b4e1-45ea-8f9a-939af65fb337",
+    "cart": 4,
+    "amount": "304.00",
+    "currency": "NPR",
+    "status": "pending",
+    "user": 6,
+    "created_at": "2025-11-25T12:02:27.309Z",
+    "modified_at": "2025-11-25T12:02:27.309Z"
+  }
+},
+{
+  "model": "shop_app.transaction",
+  "pk": 104,
+  "fields": {
+    "ref": "ef58f551-c860-4e03-932b-464559c287a6",
+    "cart": 4,
+    "amount": "304.00",
+    "currency": "NPR",
+    "status": "pending",
+    "user": 6,
+    "created_at": "2025-11-25T12:03:32.016Z",
+    "modified_at": "2025-11-25T12:03:32.016Z"
+  }
+}
+]
