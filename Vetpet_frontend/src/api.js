@@ -1,10 +1,10 @@
 import axios from "axios";
 import { jwtDecode } from "jwt-decode";
 
-export const BASE_URL = "http://127.0.0.1:8001";
+export const BASE_URL = import.meta.env.VITE_API_URL || "http://127.0.0.1:8001";
 
 const api = axios.create({
-  baseURL: "http://localhost:8001", // match frontend origin
+  baseURL: BASE_URL,
 });
 
 api.interceptors.request.use(
@@ -22,7 +22,7 @@ api.interceptors.request.use(
   },
   (error) => {
     return Promise.reject(error);
-  }
+  },
 );
 
 export default api;

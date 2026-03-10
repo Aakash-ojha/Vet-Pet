@@ -85,7 +85,7 @@ CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
     "http://localhost:5174",
     "http://localhost:5175",
-    "https://vet-pet.vercel.app",  # ← update with your actual frontend URL
+    "https://vet-pet-2av4.vercel.app/",
 ]
 
 WSGI_APPLICATION = "Vetpet_backend.wsgi.application"
