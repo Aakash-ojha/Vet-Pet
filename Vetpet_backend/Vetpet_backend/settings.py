@@ -1,18 +1,26 @@
 from pathlib import Path
 from datetime import timedelta
+import os
+import dj_database_url
+from dotenv import load_dotenv
 
-# Build paths inside the project like this: BASE_DIR / 'subdir'.
+# Load .env file
+load_dotenv()
+
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-# SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = "django-insecure-tw2o0^wz!lj!zi#dp&e6on6%f*19@=ku3!xtfi6eh+uyeoyk4q"
+# ── Security ──────────────────────────────────────────────
+SECRET_KEY = os.environ.get("SECRET_KEY")
+DEBUG = os.environ.get("DEBUG", "False") == "True"
 
-# SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+ALLOWED_HOSTS = [
+    ".vercel.app",
+    "vet-pet-aakash.onrender.com",
+    "127.0.0.1",
+    "localhost",
+]
 
-ALLOWED_HOSTS = ["vet-pet-aakash.onrender.com", "127.0.0.1", "localhost"]
-
-# Application definition
+# ── Apps ──────────────────────────────────────────────────
 INSTALLED_APPS = [
     "django.contrib.admin",
     "django.contrib.auth",
@@ -27,10 +35,11 @@ INSTALLED_APPS = [
     "corsheaders",
 ]
 
+# ── Middleware ────────────────────────────────────────────
 MIDDLEWARE = [
     "corsheaders.middleware.CorsMiddleware",
     "django.middleware.security.SecurityMiddleware",
-    "whitenoise.middleware.WhiteNoiseMiddleware",  # Added for static files
+    "whitenoise.middleware.WhiteNoiseMiddleware",
     "django.middleware.common.CommonMiddleware",
     "django.contrib.sessions.middleware.SessionMiddleware",
     "django.middleware.csrf.CsrfViewMiddleware",
@@ -57,24 +66,33 @@ TEMPLATES = [
     },
 ]
 
+# ── CORS ──────────────────────────────────────────────────
 CORS_ALLOWED_ORIGINS = [
     "http://127.0.0.1:5173",
     "http://localhost:5173",
     "http://localhost:5174",
     "http://localhost:5175",
+    "https://vet-pet.vercel.app",  # ← update with your actual frontend URL
 ]
 
 WSGI_APPLICATION = "Vetpet_backend.wsgi.application"
 
-# Database
-DATABASES = {
-    "default": {
-        "ENGINE": "django.db.backends.sqlite3",
-        "NAME": BASE_DIR / "db.sqlite3",
-    }
-}
+# ── Database ──────────────────────────────────────────────
+DATABASE_URL = os.environ.get("DATABASE_URL")
 
-# Password validation
+if DATABASE_URL:
+    # Production - PostgreSQL
+    DATABASES = {"default": dj_database_url.parse(DATABASE_URL)}
+else:
+    # Local - SQLite
+    DATABASES = {
+        "default": {
+            "ENGINE": "django.db.backends.sqlite3",
+            "NAME": BASE_DIR / "db.sqlite3",
+        }
+    }
+
+# ── Password Validation ───────────────────────────────────
 AUTH_PASSWORD_VALIDATORS = [
     {
         "NAME": "django.contrib.auth.password_validation.UserAttributeSimilarityValidator"
@@ -84,21 +102,25 @@ AUTH_PASSWORD_VALIDATORS = [
     {"NAME": "django.contrib.auth.password_validation.NumericPasswordValidator"},
 ]
 
-# Internationalization
+# ── Internationalisation ──────────────────────────────────
 LANGUAGE_CODE = "en-us"
 TIME_ZONE = "UTC"
 USE_I18N = True
 USE_TZ = True
 
-# Static files (CSS, JavaScript, Images)
-STATIC_URL = "static/"
-MEDIA_URL = "media/"
+# ── Static & Media ────────────────────────────────────────
+STATIC_URL = "/static/"
+STATIC_ROOT = BASE_DIR / "staticfiles"
+STATICFILES_STORAGE = "whitenoise.storage.CompressedManifestStaticFilesStorage"
+
+MEDIA_URL = "/media/"
 MEDIA_ROOT = BASE_DIR / "media"
 
-# Default primary key field type
+# ── Auth ──────────────────────────────────────────────────
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 AUTH_USER_MODEL = "core.CustomUser"
 
+# ── DRF + JWT ─────────────────────────────────────────────
 REST_FRAMEWORK = {
     "DEFAULT_AUTHENTICATION_CLASSES": (
         "rest_framework_simplejwt.authentication.JWTAuthentication",
@@ -107,4 +129,9 @@ REST_FRAMEWORK = {
 
 SIMPLE_JWT = {"ACCESS_TOKEN_LIFETIME": timedelta(minutes=60)}
 
-ESEWA_SECRET_KEY = "8gBm/:&EnhH.1/q"
+# ── Esewa ─────────────────────────────────────────────────
+ESEWA_SECRET_KEY = os.environ.get("ESEWA_SECRET_KEY")
+
+
+DEBUG = True
+ESEWA_SECRET_KEY = os.environ.get("ESEWA_SECRET_KEY")
