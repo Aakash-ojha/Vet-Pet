@@ -27,7 +27,7 @@ const MainLayout = ({ numCartItems }) => {
         style={{ width: "auto", maxWidth: "320px" }}
       />
 
-      <main style={{ flex: 1, paddingTop: "78px" }}>
+      <main style={{ flex: 1, paddingTop: "70px" }}>
         <Outlet />
       </main>
 

@@ -19,7 +19,7 @@ const NavBar = ({ numCartItems }) => {
   return (
     <>
       <nav
-        className={`navbar navbar-expand-lg navbar-light bg-white shadow-sm py-3 fixed-top ${styles.stickyNavbar}`}
+        className={`navbar navbar-expand-lg navbar-light bg-white shadow-sm py-3 mb-0  fixed-top ${styles.stickyNavbar}`}
       >
         <div className="container d-flex align-items-center justify-content-between">
           {/* LEFT SIDE */}
