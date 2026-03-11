@@ -29,6 +29,16 @@ export const LoginPage = () => {
     setFormData({ ...formData, [e.target.name]: e.target.value });
   };
 
+  // ⭐ Demo credentials autofill
+  const fillDemoCredentials = () => {
+    setFormData({
+      username: "test@example",
+      password: "Test@123",
+      confirmPassword: "Test@123",
+      phone: "9812345678",
+    });
+  };
+
   const handleSubmit = (e) => {
     e.preventDefault();
     setLoading(true);
@@ -73,7 +83,7 @@ export const LoginPage = () => {
   };
 
   return (
-    <div className="d-flex justify-content-center align-items-center mt-5 ">
+    <div className="d-flex justify-content-center align-items-center mt-5">
       <ToastContainer
         position="top-center"
         autoClose={3000}
@@ -86,6 +96,28 @@ export const LoginPage = () => {
           <p className="login-subtitle text-center mb-3">
             Please sign in to your account
           </p>
+
+          {/* ⭐ Demo Credentials Box */}
+          <div className="alert alert-info text-center">
+            <strong>Demo Account</strong>
+            <p className="mb-1">
+              <b>Username:</b> test@example
+            </p>
+            <p className="mb-1">
+              <b>Password:</b> Test@123
+            </p>
+            <p className="mb-2">
+              <b>Phone:</b> 9812345678
+            </p>
+
+            <button
+              type="button"
+              className="btn btn-dark btn-sm"
+              onClick={fillDemoCredentials}
+            >
+              Use Demo Credentials
+            </button>
+          </div>
 
           <form onSubmit={handleSubmit}>
             {/* Username */}
@@ -169,17 +201,18 @@ export const LoginPage = () => {
               </span>
             </div>
 
-            <div className="login-footer mt-1 ">
+            <div className="login-footer mt-1">
               <p>
                 <a href="#">Forgot Password</a>
               </p>
             </div>
+
             <button
               type="submit"
               className="btn btn-info w-100 py-2 rounded-pill"
               disabled={loading}
             >
-              {loading ? "Logging in..." : "Sign in "}
+              {loading ? "Logging in..." : "Sign in"}
             </button>
           </form>
         </div>
