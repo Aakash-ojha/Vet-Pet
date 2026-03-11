@@ -1,64 +1,57 @@
-import React from "react";
 import { NavLink } from "react-router-dom";
 
-function MobileNav({ onLinkClick }) {
+const MobileNav = ({ links, menuOpen, closeMenu }) => {
+  if (!menuOpen) return null;
+
   return (
-    <div>
-      {/* hii */}
-      <div className="d-block d-lg-none  navbar-nav  mb-2 mb-lg-0 text-center  bg-light ">
-        <NavLink
-          to="/"
-          className={({ isActive }) =>
-            "nav-link px-2 fw-semibold fs-5" +
-            (isActive ? " active" : "nav-link px-2 fw-semibold fs-6")
-          }
-          onClick={onLinkClick}
-        >
-          Home
-        </NavLink>
-        <NavLink
-          to="/about"
-          className={({ isActive }) =>
-            "nav-link px-2 fw-semibold fs-5" +
-            (isActive ? " active" : "nav-link px-2 fw-semibold fs-6")
-          }
-          onClick={onLinkClick}
-        >
-          About
-        </NavLink>
-        <NavLink
-          to="/shop"
-          className={({ isActive }) =>
-            "nav-link px-2 fw-semibold fs-5" +
-            (isActive ? " active" : "nav-link px-2 fw-semibold fs-6")
-          }
-          onClick={onLinkClick}
-        >
-          Shop
-        </NavLink>
-        <NavLink
-          to="/appointment"
-          className={({ isActive }) =>
-            "nav-link px-2 fw-semibold fs-5" +
-            (isActive ? " active" : "nav-link px-2 fw-semibold fs-6")
-          }
-          onClick={onLinkClick}
-        >
-          Appointment
-        </NavLink>
-        <NavLink
-          to="/contact-us"
-          className={({ isActive }) =>
-            "nav-link px-2 fw-semibold fs-4" +
-            (isActive ? " active" : "nav-link px-2 fw-semibold fs-6")
-          }
-          onClick={onLinkClick}
-        >
-          Contact Us
-        </NavLink>
+    <div
+      className="position-fixed top-0 start-0 right-40 w-100 h-100 d-flex justify-content-end align-items-start"
+      style={{
+        backgroundColor: "rgba(0,0,0,0.4)",
+        zIndex: 1050,
+        paddingTop: "70px",
+        left: 0,
+        right: 0,
+      }}
+      onClick={closeMenu}
+    >
+      <div
+        className="bg-white rounded shadow p-4 d-flex flex-column"
+        style={{
+          width: "260px",
+          marginRight: "16px",
+        }}
+        onClick={(e) => e.stopPropagation()}
+      >
+        {/* Close Button aligned right */}
+        <div className="d-flex justify-content-end mb-3">
+          <button
+            className="btn btn-sm btn-dark rounded-circle"
+            onClick={closeMenu}
+            aria-label="Close menu"
+          >
+            ✕
+          </button>
+        </div>
+
+        {/* Links stacked vertically */}
+        <div className="d-flex flex-column gap-4">
+          {links.map((link) => (
+            <NavLink
+              key={link.path}
+              to={link.path}
+              onClick={closeMenu}
+              className={({ isActive }) =>
+                `nav-link fw-semibold ${isActive ? "text-primary" : "text-dark"}`
+              }
+            >
+              {link.name}
+            </NavLink>
+          ))}
+        </div>
       </div>
     </div>
   );
-}
+};
 
 export default MobileNav;
