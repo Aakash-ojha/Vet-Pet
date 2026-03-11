@@ -50,26 +50,15 @@ const MobileNav = ({ links, menuOpen, closeMenu }) => {
 
           <div className="d-flex flex-column gap-2">
             {isAuthenticated ? (
-              <>
-                <NavLink
-                  to="/profile"
-                  onClick={closeMenu}
-                  className={({ isActive }) =>
-                    `nav-link fw-semibold ${isActive ? "text-primary" : "text-dark"}`
-                  }
-                >
-                  My Profile
-                </NavLink>
-                <NavLink
-                  to="/my-appointments"
-                  onClick={closeMenu}
-                  className={({ isActive }) =>
-                    `nav-link fw-semibold ${isActive ? "text-primary" : "text-dark"}`
-                  }
-                >
-                  Appointments
-                </NavLink>
-              </>
+              <NavLink
+                to="/profile"
+                onClick={closeMenu}
+                className={({ isActive }) =>
+                  `nav-link fw-semibold ${isActive ? "text-primary" : "text-dark"}`
+                }
+              >
+                My Profile
+              </NavLink>
             ) : (
               <NavLink
                 to="/login"
