@@ -1,4 +1,4 @@
-import { FaFacebook } from "react-icons/fa";
+import { FaFacebook, FaGithub } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
 import { FaTwitter } from "react-icons/fa";
 
@@ -28,15 +28,33 @@ const Footer = () => {
         {/* Social Media Icons Section */}
         <div className="mb-2">
           <a
-            href="https://www.facebook.com/ezone.timilsina?rdid=HiPDGaCfS94RoS9N&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1GtP1KMx1m%2F#"
+            href="https://www.facebook.com/"
+            target="_blank"
             className="text-white mx-2"
           >
             <FaFacebook />
           </a>
-          <a href="#" className="text-white mx-2">
+          <a
+            href="https://www.twitter.com/"
+            target="_blank"
+            className="text-white mx-2"
+          >
             <FaTwitter />
           </a>
-          <a href="#" className="text-white mx-2">
+          <a
+            href="https://github.com/Aakash-ojha/Vet-Pet"
+            target="_blank"
+            rel="noreferrer"
+            title="You can find the source code"
+            className="text-white mx-2"
+          >
+            <FaGithub />
+          </a>
+          <a
+            href="https://www.instragram.com/"
+            target="_blank"
+            className="text-white mx-2"
+          >
             <FaInstagram />
           </a>
         </div>
