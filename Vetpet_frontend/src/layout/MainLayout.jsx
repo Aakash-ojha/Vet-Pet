@@ -10,7 +10,7 @@ const MainLayout = ({ numCartItems }) => {
     <>
       <NavBar numCartItems={numCartItems} />
       <ToastContainer />
-      <div style={{ paddingTop: "78px" }}>
+      <div style={{ paddingTop: "70px" }}>
         <Outlet />
       </div>
       <Footer />

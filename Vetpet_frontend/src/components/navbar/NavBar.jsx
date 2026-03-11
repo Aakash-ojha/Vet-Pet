@@ -1,149 +1,95 @@
 import { FaShoppingCart } from "react-icons/fa";
-
 import { Link, NavLink } from "react-router-dom";
 import styles from "./NavBar.module.css";
 import { useState } from "react";
-import NavBarLink from "./NavBarLink";
 import MobileNav from "./MobileNav";
+import NavBarLink from "./NavBarLink";
 
 const NavBar = ({ numCartItems }) => {
-  // this is the mobile menu function
-
   const [menuOpen, setMenuOpen] = useState(false);
 
-  // Toggle menu open/close
-  const toggleMenu = () => {
-    setMenuOpen((prev) => !prev);
-  };
-  // here it ends
+  const navLinks = [
+    { name: "Home", path: "/" },
+    { name: "Doctors", path: "/doctors" },
+    { name: "About", path: "/about" },
+    { name: "Shop", path: "/shop" },
+    { name: "Appointment", path: "/my-appointments" },
+    { name: "Contact Us", path: "/contact-us" },
+  ];
+
   return (
-    <nav
-      className={`navbar navbar-expand-lg navbar-light bg-white shadow-sm py-3 fixed-top ${styles.stickyNavbar}`}
-    >
-      <div className="container">
-        <Link className="navbar-brand fw-bold text-uppercase" to="/">
-          VETPET
-        </Link>
-
-        <div
-          className="d-none d-lg-flex justify-content-center align-items-center gap-3 p-2 "
-          style={{ marginLeft: "20rem" }}
-        >
-          <NavLink
-            to="/"
-            className={({ isActive }) =>
-              "nav-link px-2 fw-semibold fs-5" +
-              (isActive ? " active" : "nav-link px-2 fw-semibold fs-6")
-            }
-          >
-            Home
-          </NavLink>
-          <NavLink
-            to="/doctors"
-            className={({ isActive }) =>
-              "nav-link px-2 fw-semibold fs-5" +
-              (isActive ? " active" : "nav-link px-2 fw-semibold fs-6")
-            }
-          >
-            Doctors
-          </NavLink>
-
-          <NavLink
-            to="/about"
-            className={({ isActive }) =>
-              "nav-link px-2 fw-semibold fs-5" +
-              (isActive ? " active" : "nav-link px-2 fw-semibold fs-6")
-            }
-          >
-            About
-          </NavLink>
-          
-          <NavLink
-            to="/shop"
-            className={({ isActive }) =>
-              "nav-link px-2 fw-semibold fs-5" +
-              (isActive ? " active" : "nav-link px-2 fw-semibold fs-6")
-            }
-          >
-            Shop
-          </NavLink>
-          <NavLink
-            to="/my-appointments"
-            className={({ isActive }) =>
-              "nav-link px-2 fw-semibold fs-5" +
-              (isActive ? " active" : "nav-link px-2 fw-semibold fs-6")
-            }
-          >
-            Appointment
-          </NavLink>
-          <NavLink
-            to="/contact-us"
-            className={({ isActive }) =>
-              "nav-link px-2 fw-semibold fs-5" +
-              (isActive ? " active" : "nav-link px-2 fw-semibold fs-6")
-            }
-          >
-            Contact Us
-          </NavLink>
-        </div>
-
-        {/* mobile menu */}
-
-        {/* it maintain hide and show */}
-        <div
-          id="mobileMenu"
-          className={`d-lg-none ${
-            menuOpen ? "d-block" : "d-none"
-          }  position-absolute w-100`}
-          style={{
-            top: "100%",
-            left: 0,
-            zindex: 999,
-          }}
-        >
-          <MobileNav onLinkClick={() => setMenuOpen(false)} />
-        </div>
-
-        <button
-          className="navbar-toggler"
-          type="button"
-          onClick={toggleMenu}
-          data-bs-toggle="collapse"
-          data-bs-target="#navbarContent"
-          aria-controls="navbarContent"
-          aria-expanded={menuOpen}
-          aria-label="Toggle navigation"
-        >
-          <span className="navbar-toggler-icon"></span>
-        </button>
-
-        {/* mobile-menu ends */}
-
-        <div className="collapse navbar-collapse" id="navbarContent">
-          <NavBarLink />
-
-          <Link
-            to="/cart"
-            className={`btn btn-dark ms-3 rounded-pill position-relative ${styles.responsiveCart}`}
-          >
-            <FaShoppingCart />
-            {numCartItems == 0 || (
-              <span
-                className="position-absolute top-0 start-100 translate-middle badge rounded-pill"
-                style={{
-                  fontSize: "0.85rem",
-                  padding: "0.5em 0.65em",
-                  backgroundColor: "#6050DC",
-                }}
-              >
-                {/* Optional: put cart count here */}
-                {numCartItems}
-              </span>
-            )}
+    <>
+      <nav
+        className={`navbar navbar-expand-lg navbar-light bg-white shadow-sm py-3 mb-0 fixed-top ${styles.stickyNavbar}`}
+      >
+        <div className="container-fluid px-3 d-flex align-items-center justify-content-between">
+          {/* LEFT SIDE */}
+          <Link className="navbar-brand fw-bold text-uppercase m-0" to="/">
+            VETPET
           </Link>
+
+          {/* DESKTOP MENU */}
+          <div className="d-none d-lg-flex align-items-center gap-5">
+            {navLinks.map((link) => (
+              <NavLink
+                key={link.path}
+                to={link.path}
+                className={({ isActive }) =>
+                  `nav-link fw-semibold ${isActive ? "fs-5 active" : "fs-6"}`
+                }
+              >
+                {link.name}
+              </NavLink>
+            ))}
+          </div>
+
+          {/* RIGHT SIDE (Cart + Desktop SignIn/Profile + Mobile Toggle) */}
+          <div className="d-flex align-items-center gap-3">
+            {/* Desktop SignIn/Profile (hidden on small screens) */}
+            <div className="d-none d-lg-block">
+              <NavBarLink />
+            </div>
+
+            {/* Cart */}
+            <Link
+              to="/cart"
+              className={`btn btn-dark rounded-pill position-relative ${styles.responsiveCart}`}
+            >
+              <FaShoppingCart />
+
+              {numCartItems > 0 && (
+                <span
+                  className="position-absolute top-0 start-100 translate-middle badge rounded-pill"
+                  style={{
+                    fontSize: "0.75rem",
+                    padding: "0.4em 0.6em",
+                    backgroundColor: "#6050DC",
+                  }}
+                >
+                  {numCartItems}
+                </span>
+              )}
+            </Link>
+
+            {/* Mobile Toggle */}
+            <button
+              className="navbar-toggler d-lg-none"
+              type="button"
+              onClick={() => setMenuOpen(true)}
+            >
+              <span className="navbar-toggler-icon"></span>
+            </button>
+          </div>
         </div>
-      </div>
-    </nav>
+      </nav>
+
+      {/* MOBILE MODAL MENU */}
+      <MobileNav
+        links={navLinks}
+        menuOpen={menuOpen}
+        closeMenu={() => setMenuOpen(false)}
+      />
+    </>
   );
 };
 
