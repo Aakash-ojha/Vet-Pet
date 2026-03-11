@@ -1,12 +1,28 @@
 import { FaShoppingCart } from "react-icons/fa";
 import { Link, NavLink } from "react-router-dom";
 import styles from "./NavBar.module.css";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import MobileNav from "./MobileNav";
 import NavBarLink from "./NavBarLink";
 
 const NavBar = ({ numCartItems }) => {
   const [menuOpen, setMenuOpen] = useState(false);
+
+  useEffect(() => {
+    const mediaQuery = window.matchMedia("(min-width: 992px)");
+
+    const handleScreenChange = (e) => {
+      if (e.matches) {
+        setMenuOpen(false); // close mobile menu when entering desktop
+      }
+    };
+
+    mediaQuery.addEventListener("change", handleScreenChange);
+
+    return () => {
+      mediaQuery.removeEventListener("change", handleScreenChange);
+    };
+  }, []);
 
   const navLinks = [
     { name: "Home", path: "/" },

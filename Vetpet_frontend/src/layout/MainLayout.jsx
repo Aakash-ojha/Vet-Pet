@@ -7,14 +7,32 @@ import { Outlet } from "react-router-dom";
 
 const MainLayout = ({ numCartItems }) => {
   return (
-    <>
+    <div
+      style={{
+        display: "flex",
+        flexDirection: "column",
+        minHeight: "100vh",
+      }}
+    >
       <NavBar numCartItems={numCartItems} />
-      <ToastContainer />
-      <div style={{ paddingTop: "70px" }}>
+
+      <ToastContainer
+        position="top-center"
+        autoClose={2000}
+        hideProgressBar={false}
+        newestOnTop={true}
+        closeOnClick={true}
+        pauseOnHover={false}
+        limit={3}
+        style={{ width: "auto", maxWidth: "320px" }}
+      />
+
+      <main style={{ flex: 1, paddingTop: "70px" }}>
         <Outlet />
-      </div>
+      </main>
+
       <Footer />
-    </>
+    </div>
   );
 };
 
